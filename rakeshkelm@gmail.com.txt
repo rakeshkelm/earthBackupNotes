@@ -1,106 +1,541 @@
-﻿Primary Worklist
+﻿Earth Backup
+
+
+Stipulations
+[
+99 year term ownership with early return, if able to exit to a planet
+Auto renewal for successive 99 year term(s) at a time, if unable to exit to a planet
+]
+
+
+Backup 1
+[
+Based out of Pyongyang or Kaliningrad
+Locations in Siberia and northeastern china
+]
+
+
+Backup 2
+[
+Prebuilt - Kabul with two corridors
+Corridor to ocean
+Corridor to caspian
+]
+
+
+Backup 3
+[
+Based out of northern Canada
+Close to Hudson Bay
+Close to alaska
+]
+
+
+Car (bike/kayak) and ferry (boat/ship)
+
+
+Start Binghamton, NY
+Dry Summer, mild winter...
+
+
+Alaska
+[
+Ottawa 20d J30
+St. Albans/Montreal 20d J10
+Albany 20d M20
+]
+
+
+Cyril (C reel)
+
+
+Gwen cyril
+Skyler cyril
+Johanna Eric Miley Christine cyril
+Doug 25 Franklin
+Devin Conklin cyril
+Dominic Russell cyril
+
+
+John Putano HolyfatherPastorPriest clinton
+James ss Kimberly Seane Brandon front cy
+Harold Will rm cyril
+Catholic pantry cyril
+ Michelle sue Michelle
+ Clover
+ Clayton
+ Bryan
+ Troy
+ Tom
+
+
+Pantry, Supplies and Services
+[
+Parchment and foil - clean cooking
+Cutlery and Napkins - clean eating
+Razor and cream - clean face
+Laundry and detergent - clean clothes
+ Washer and dryer
+Plumbing and water - clean body
+ Diaper wipes, Facial wipes
+Scissors and trimming - clean head top
+]
+
+
+Cutlery Glasses
+Shaving Razor
 
 
 
 
-Finance
-Bank
 
 
+ 
+
+
+Planet Commercial/Commerce
+
+
+Private Commercial/Commerce
+[
+Financial Services with stips
+{
+Retail
+(
+ATM bank
+)
+Commercial
+Investment
+Brokerage
+Exchange
+}
+
+
+Legal Services
+{
+}
+
+
+Engineering Services
+{
+Wave
+
+
+Electron
+
+
+AmComm
+
+
+Atom
+Risc 5
+Antenna
+Drones
+Satellite
+}
+
+
+]
+
+
+Planet Residence/Homestead
+
+
+Private Residence/Homestead
+[
+Utilities
+Power plant
+Micro nuclear, {wind, solar, hydro}
+Network - Composites, Fiber
+Network elements - Smart
+Comm
+Electric
+Water
+
+
+On ground
+Antenna
+In Air
+Drones
+In Orbit
+Satellite
+
+
+Food
+Asr auto. stock room
+
+
+Recreation
+Indoor and outdoor
+
+
+Medicine
+Cabinet
+
+
+Currency
+ATM bank
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Planetarians game (Ii game, new game, PW)
+
+
+
+
+Fucking
+
+
+Build and operationalize planet
+[
+Expand Independent Interest
+Update Independent Interest
+]
+
+
+Expand Independent Interest
+[
+Build an Ii game (Focus on planets, solar system, galaxy)
+Take as many people as possible from earth to the newly built Ii game
+Build new name and expand culture
+Planet name
+Planet flag
+New name for Federal Reserve
+"Proper Federal reserve"
+Private equity, Investment, Commercial
+New name for Attorneys
+"Proper Attorney's "
+New name for Business Administrators
+"Proper Business Administrator's "
+New name for Doctors
+"Proper Doctor's"
+Operational mantra - I am American
+ (I am Male)
+]
+
+
+Update Independent Interest
+[
+Prevent double occupancy by maintaining separation (hang and maintain separation)
+Update university
+Update postal service
+]
+
+
+Existential crisis for Earth
+[
+I am American
+I am Male
+]
+
+
+Americans game (Ii game, opening game, W)
+
+
+
+
+Loosing
+
+
+Operationalize America
+[
+Independents
+Net positive
+Exit(s) (Masturbation, Fornication)
+Militia news
+Independently joint
+Built by owners
+Look forward, move forward
+Perk things up
+]
+
+
+Back country culture
+[
+engineering culture or raise the barn culture
+Owners and owning
+Walk the talk
+Be there because you want to be there
+Proper white aka Proper gringo
+American game, Closest is Northern European
+Hang and maintain information separation, provide same information, provide same information use
+Operational mantra - I am Conservative
+ (I am gay, I am girl, I am old, I am green, I am blue)
+Polls/Elections
+Day after the first proper snowfall (approx. middle finger length) .
+Be there before/at sunset.
+Arms and legs only
+Open ballot
+Property auction
+Limited to talent, then live in owners (aka we have been here for 20 years) and then renters (aka we are old). Talent is back country culture
+
+
+Address Capacity constraints.
+{
+Run out your money, then Run out your labor to keep things at a high standard.
+Take on things, only if you are able to keep things at a high standard
+Expand population and build cities, only if you can keep and expand the core Ii game
+
+
+Restrict to owning one private personal (residence/homestead) property and one private business (commercial/commerce) property. Additional properties based on demonstration and practice of core Ii game
+
+
+Gain a skill and keep the skill in the entire population by doing volume production abroad or automated production at home-everyone knows where we are at (our lead)
+
+
+Winning
+Same price over time
+Same size over time
+Same quality over time
+
+
+}
+
+
+Broaden and keep everything open, here and abroad, decentralize and devolve
+{
+Product
+Process
 Tech
-Risc 5 dev board with new os and new apps
+People
+Culture
+}
 
 
-Sky vehicles transport aka drones
+Eliminate conflicts of interest
+{
+We are not Attorney's
+We don't work like Attorney's
 
 
-Galaxy com Sat com
+We are not Business Administrators
+We don't work like Business Administrators
 
 
-P2p elections open voting not secret ballot
-Federal reserve bank account
-P2p Id not centralized id
-Professional judiciary internal recruitment no external elections or selections
-Professional executive service internal recruitment no external selections
-Professional foreign service internal recruitment no external selections
-Fcc commissioners professional standards org like engineering standards orgs
-Separate Double occupancy
+We are not Doctors
+We don't work like Doctors
+}
 
 
+Existential crisis for America.
+{
+ I am Conservative
+ I am gay, I am girl, I am old, I am green, I am blue
+}
+ 
+]
 
 
-Secondary Worklist
+Address the unwinding problem.
+[
+Keep Unwinding things as best as you can (Keep addressing it as a tertiary focus)
 
 
-101122
-Risc 5 TV dev board with working android TV os or working Google TV os
-
-
-101022
-Risc 5 dev board with ChromeOS and working Linux desktop apps or chromium os with working Linux desktop apps
-
-
-100922
-Chrome os with working Linux desktop apps or chromium os with working Linux desktop apps
-
-
-Tertiary Worklist
+Exit to an Ii game (American game) while running inside an Ei game (Royalist game) in real time
+]
 
 
 
 
-120922
-Live/real time video, images... from camera to p2p and cloud
 
 
-111922
-App/screen pinning on fitness band
 
 
-111522
-Integrate email into com apps
 
 
-110522
-Personalize spam reporting in email
 
 
-102022
-p2p passport
 
 
-101422
-Add font changes bold type to browser rendition settings
-Add reordering of data rows in tables to browser rendition settings
-Integrate data rows into tables via browser
 
 
-101322
-Big tel video data service via apps
 
 
-101122
-TV dev board with working android TV os or working Google TV os
 
 
-100822
-Linux desktop apps integration into chrome os
 
 
-100622
-B2C payments (Meridian) via BZelle
+Open p2p software and web clients for publicly available government data (title, deed, registration, passport, drivers license...) and services (issuances...)
 
 
-100522
-Automatic switching to home wifi from hotspot
-Big tel PSTN data service via apps
+Family, couple, adult, teenager and kid sizes and prices in ice creams and everything in big box stores
+Practice independence
+Family = Breast Feeding
+Dollar, three, five dollar stores only for practicing manners
+Government companies, if private companies are not interested in serving government clients (most commonly telecom companies)
 
 
-071522
-Android TV os, be able to take screenshots, onscreen recording, saving of clips, sharing. All the things you have on android phone os
+Open Web clients for cloud email services like gmail, (hotmail 0 years)... and other web services like maps, photos, drive, amazon, (best buy 0 years)... after 20 years of product launch
 
 
-Today Worklist
+Sectioning (aka narrowing) is not possible on one's own private property. Everywhere else sectioning (aka narrowing) is possible.
+
+
+
+
+
+
+
+
+
+
+
+
+Conservatives game (Ei game, blocking game, substitution game, TW)
+
+
+
+
+Winning
+
+
+Operationalize Royalists
+[
+aka Legacy, Legacy bay (GOP, Go pee)
+Top level breach, bottom level breach
+Net negative
+Escape(ism) {Boobies, Booties}
+Excessive hierarchial news
+Hierarchialy joint
+Built by unions, workers, ghetto
+Look backward, move backward
+One side
+Religious - legacy aka GOP
+Unions, workers, ghetto - legacy bay aka Go pee
+]
+
+
+City culture is real estate culture.
+[
+Rent collection and Renting. Talk the walk.
+Be a conservative or I will feed you to a conservative.
+WINO (White in color only = wino Red, wino Taco, wino Combo).
+More like an English, Southern European (south of northerns-scan), Eastern European game
+Maintain information separation, different information, different use of information
+Operational mantra - I am scared
+ (I am Irish, I am Catholic, I am Juice, I am Mormon, I am Parsi)
+]
+
+
+Keep and propagate Royalists.
+[
+Keep it to Community owned aka Socialist owned to Communist owned to take down the communists to take down the home game (Independently owned) at home and abroad.
+]
+
+
+Keep shrinking the II core "and" at the same time keep expanding the Ei core.
+[
+Expand conservative population organically "and" Keep looping in conservative population with a lack of market required skills from around earth. Build cities as fast as you can. Try to convince other conservatives to build a suburban city "and" at the same time expand to a vertical city. Keep a high price differential between a vertical city and a suburban city. Use the price differential to make it fashionable to live in a vertical city.
+]
+
+
+Keep moving backward, Wind things down,
+Focus on killings and substitutions
+[
+Narrow and keep everything closed, both here and abroad, centralize
+Product
+Process
+Tech
+People
+Culture
+]
+
+
+Create and maintain conflicts of interest
+[
+Drive labor into unions and make them work like attorneys
+Drive people into poverty and make them do unsavoury things
+]
+
+
+Keep people in leadership with a lack of market required skills
+[
+Keep people above 65 and 55 (as close to 95 as possible = run them high)
+Keep females in leadership above 50 (as close to males as possible = run them high)
+]
+ 
+Create and maintain sections
+[
+Males in miniscule numbers (Americans- Northern males - Proper White, closest English/Welsh Americans, Scandinavian Americans)
+
+
+Run females higher than males
+Southern belles (English/Welsh aka Southern females -wino Red)
+Taco belles (Scottish/SouthernEuropean aka TexMex females - wino Taco)
+Pennsylvania belles (Irish/EasternEuropean aka ghetto/slave/fullyWoundup females - wino Combo)
+
+
+Expect trouble/problems when working with sections other than yours
+]
+
+
+Broome County
+[
+Chinese market = government market
+American market = private market
+Broome county is a Chinese market
+About 25% of Broome county is legal
+(Needs to be close to zero. Unacceptable!).
+]
+
+
+Americans in miniscule numbers
+[
+"Americans"
+Americans aka Americans plus southerns (
+American trailer, English/Scandinavian Americans)
+"Northeners"
+English/Scandinavian Americans aka "northerners" plus southerns (English American trailer, Scan American trailer, Scots, Welsh, Irish, French, Spanish, italians, portuguese, Greeks, Poles, czechoslovaks, yugoslavs, ukrainians, Blacks, Hispanics, Latinos, Mexicans)
+"Southeners"
+English/British aka "Southerners" plus southerns (English/British Trailer, Scots, Welsh, Irish, Canadians, Australians, new Zealanders)
+"Northens"
+Scandinavians aka "northens" plus southerns (Scan trailer, Dutch, Belgians, w germans, swiss, austrians)
+"Germans"
+Germanics aka "germans" plus southerns (Germanic trailer, French, Spanish, Italian, greek)
+"Easterns"
+Russians aka "Easterns" plus southerns (Russian trailer, e germans, Poles, Czechoslovaks, yugoslavs, ukrainians)
+]
+
+
+Existential crisis for Israel
+[
+I am scared
+I am Irish, I am Catholic, I am Juice, I am Mormon, I am Parsi
+]
+ 
+
+
+Primary worklist
+
+
+Snow removal machine
+(Nada snow blower)
+
+
+
+
+
+
+
+
+
+
+Right of way is present on all four sides of the property.
+
+
+Today worklist
 
 
 Estonia
@@ -108,14 +543,48 @@ Latvia
 Lithuania
 
 
-Rides
-Rm t
-Os t
-Barber w
-Bank dance w
-Wetsuit th
-Passport th
-Food farms th
+Cc gloves
+Phone bk, lowes
+
+
+Dave, Ben and Tyler hvac
+Taxes e-file, print
+Stop by Serafini transport
+Ghs wendy
+MD appt
+Dentist appt
+Payoff dos sent email
+Garnar v5
+Lourdes form drop off
+
+
+RIDES
+Janine Geneva Cornell corning ibm ge
+
+
+git ipfs https
+Uploads daily setup software
+
+
+WEEK
+Mon bank groc
+Tue amazon wh
+Wed FedEx o
+Thu
+Fri DSS Oakdale mall
+Sat bb target
+Sun BK
+
+
+
+
+Ems visits
+Second ems email
+Ride visits
+Uber driver email
+Lyft driver email
+Cab driver email
+Cab company courtesy email
 
 
 
@@ -128,190 +597,507 @@ Food farms th
 
 
 
+Tertiary Worklist
+
+
+031823
+Auto provisioning of VPN and encryption to
+private network
+a) home lan peers (over wifi and cable)
+b) home wan peers (over wifi and cable)
+
+
+031723
+Auto provisioning of VPN and encryption to
+public network
+a) incoming home lan connections via bridge (over wifi and cable)
+b) outgoing home wan connections via router (over wifi and cable)
+
+
+031623
+VPN (virtual private network) connections for all websites and web services provided by the respective site and service.
+
+
+031123
+Kids shopping areas in stores
+
+
+022723
+Smart locks with smart private keys (image, audio, video, instant message, file...) and connected to house grid, in retail channels.
+
+
+022423
+Left rear scap pocket and left chest pocket on jackets for phones
+
+
+022123
+Make data publicly available, maps - satellite, street....at very high precision
+
+
+022023
+Open p2p software and web clients for publicly available government data (title, deed, registration, passport, drivers license...) and services (issuances...)
+
+
+021923
+Family, couple, adult, teenager and kid sizes and prices in ice creams and everything in big box stores
+Practice independence
+Family = Breast Feeding
+Dollar, three, five dollar stores only for practicing manners
+Government companies, if private companies are not interested in serving government clients (most commonly telecom companies)
+
+
+021523
+Open Web clients for cloud email services like gmail, (hotmail 0 years),... and other web services like maps, photos, drive, amazon, (best buy 0 years)... after 20 years of product launch
+
+
+021223
+Add wifi auto roaming
+
+
+020623
+Add printing or saving in open file formats to ChromeOS and linux
+
+
+020423
+Opera custom names "quick access"
+
+
+Advertisements only stream
+Trailers only sttream
+Period 1600s, 1700s, 1800s reading only
+
+
+Seconday Worklist
+
+
+Take sports teams (NFL, NHL, NBA, MLB) championships abroad like tennis.
+
+
+RAKESH KUKATLA
+
+
+Comm
+rakeshbingk@gmail.com
+Skype, Zoom, Teams, git other smart apps
+
+
+Cottage
+7 ELM ST
+BINGHAMTON, NY 13905
 
 
 
 
 
 
-Bank online
-Dispute tjm transactions aft
-Dispute key transaction aft
-Send jack an email mon
 
 
-Rhnscny, redcross, Roberson, mission, Lourdes, Nyuhs, gbhc,
-vanetta Luke move, records info.
-Redcross, Roberson, boe, rhnscny,
-Bu dance, Rm, gbhc, club
 
 
-Photocopy Broome, trial docs
-Email nyuhs irb moderna
-Email Lourdes health and fitness
-Email mayor. Garnar
-Email FedEx UPS
-Email FedEx Redcross, Roberson, BOE, rhnscny, bu dance
+Shopping list
 
 
-Call Rob, Carl
-Set pickup for FedEx, ups
-Mail trial docs FedEx ups
-Mail Broome docs usps
-Ithaca
-Corning
-Ibm
+
+
+BB AZ
+Rechargeable batteries
+Rechargeable unit
+Fitness band strap
+Smart lock
+Wireless Charging adapter
+Wireless Charging pad
+Prepaid phones
+Headphones
+Titan private keys
+
+
+OS AZ
+Slide
+Kayak
+Wetsuit
+Sail
+
+
+MALL AZ
+Sport boots
+
+
+TG BL AZ supplies
+Red flag
+Foil 200
+Parchment paper 200
+
+
+DT
+Barbq
+Knives
+Diaper wipes
+
+
+5B
+Slide
+
+
+
+
+Lourdes Robinson, 306, ER f28 th hn 1 pm
+
+
+Service Narrowed
+Pay bribe Sir/Madam/Tip hat
+
+
+022823
+Leisner MD
+Th f28. hn, 1PM
+Check in area
+ setup comm
+Physician assistant area
+Conversation get to know
+Setup comm
+Go forward or reschedule
+MD area
+conversation get to know
+Setup comm
+Go forward or reschedule
+
+
+Michelle Registration
+Sarah lpn
+Romoff DO
+Tracy Registration
+
+
+Registration photocopies 3 sides
+Pick up copies from last visit = med. Records
+Jacqln lpn
+Dee rn M
+MD no show
+
+
+Profile
+
+
+Rakesh Kukatla
+rakeshkelm@gmail.com
+smart apps : rakeshbingk@gmail.com
+Skype, Zoom, Teams, git and other.
+7 Elm Street
+Exurban New York-Binghamton, NY, USA.
+
+
+About
+Build and Operationalize planet
+Expand and Update Independent Interest.
+
+
+Militia
+Rakesh Kukatla
+Nov 2021 - present
+Exurban New York-Binghamton, NY, USA.
+Earth Backup
+Finished Southern route (Mexico - 2021, 2022) and starting on Northern route (Alaska - May 2023).
+
+
+
+
+
+
+Resume
+
+
+Rakesh Kukatla
+Consultant and Advisor
+
+
+About
+
+
+Projects involving strategy, operations, competition analysis, product positioning, program management, project management, user experience, user interface, systems and data migration, infrastructure design, systems and software operations and support, software design and development, people and process scaling.
+
+
+Experience
+ 
+Programmer/Analyst and Project Manager
+Harvard University
+Nov 2005 - Jul 2007 · 1 yr 9 mos
+Boston, MA, USA.
+Research and Education
+Increased efficiency by migrating existing processes and systems to state of the art. Generated savings of hundreds of thousands of dollars per year.
+
+
+Program Manager and Programmer/Analyst
+Cornell University
+Mar 2000 - Aug 2003 · 3 yrs 6 mos
+Exurban New York-Ithaca, NY, USA.
+Research and Education
+Increased impact and effectiveness by establishing an information technology program. Achieved two hundred percent increase in enterprise wide impact and 5x increase in effectiveness.
+
+
+Consultant
+Home Owners Loan Corp.Home Owners Loan Corp.
+Dec 1999 - Feb 2000 · 3 mos
+Atlanta, GA, USA.
+Financial Services
+Increased scaling capacity of a fast growing retail lending company. Managed 10x growth in revenues.
+
+
+Volunteering
+
+
+Regional Program Lead, Community Engagement & Partnerships
+American Red Cross
+Mar 2021 - Present
+Exurban New York-Binghamton, NY, USA.
+Disaster and Humanitarian Relief
+Develop community engagement and partnerships to support both strategic and operational field activities.
+
+
+Consultant
+Rakesh Kukatla
+Nov 2019 - Present
+Exurban New York-Binghamton, NY, USA.
+Consulting
+Available for Pro Bono Consulting.
+
+
+AmeriCorps VISTA Member
+Corporation for National and Community Service
+Oct 2019 - Feb 2020 · 5 mos
+Exurban New York-Binghamton, NY, USA.
+Health
+Design and implement strategies to build capacities in
+Community Health Education and Behavioral Health for
+the Rural Health Network serving South Central New York.
+
+
+Education
+
+
+Master of Science, M.S, 1999
+Georgia State University, Atlanta, GA, USA
+
+
+Smile designer Dentist f28 th ss 2:30 pm
+
+
+
+
+Service Narrowed
+Pay bribe Sir/Madam/Tip hat
+
+
+022823
+Dental Assistant/Hygienist area
+conversation get to know
+Setup comm
+Go forward or reschedule cleaning
+Dentist area
+closed conversation Private, dentist only
+Include westcott if needed, not techs
+Check out area
+Tech, process, next treatment plan, appointment
+
+
+022323
+Parking area outside covered
+mud brush area outside covered
+Peeing area outside
+Mud room area with palm cleaning pump
+Check in area
+Waiting area
+Dentist area in chair closed conversation
+Back country 5/yr accelerated
+Today's visit x ray,
+X ray area
+ before and after pics for record
+Operating table area
+Give info at every step
+Check out area
+open conversation
+tech setup
+Process setup
+Proposed Treatment plan Envelope (sealed)
+Appointment next
+
+
+020223
+Accelerated schedule 4/year back country
+Plaque buildup
+Doctor vs Dentist Narrowed
+Process setup Narrowed
+Clinic vs office
+Being run as an office as opposed to a clinic
+Open and closed conversation with
+Dentist
+Clinic front
+Front desk appts.
+Back office insu. or corporate
+Office aka corporate aka centralized
+Tech setup Narrowed
+email
+Individuals
+
+
+Earth Backup
+
+
+Car (bike/kayak) and ferry (boat/ship )
+
+
+
+
+
+
+Legal services
+
+
+
+
+
+
+
+
+
+
+
+
+Move everything to browser.
+Customizable default tabs not there yet.
+
+
+Financial Services
+
+
+Smart app bank nationwide first
+Commercial
+Investment
+Brokerage
+Exchange
+
+
+Drones
+
+
 Ge
-Pickup shopping items
-Salt
-Disposable items
+Engine
+Airframe
 
 
-Music eve space across from river
+Antenna
 
 
-Eyebrow mon
-Russian noon
-Dan dataflow
-Darren furnace
-New girl period songs
-
-
-Week 1
-Appliance, appts 4+1
-
-
-Week 2 Week 3
-Bu, (Cornell), Corning, ibm, ge
-
-
-Physical
-
-
-Front, side an rear lawn
-Right fence trimming
-Back, Left fence teimming
-Back yard trimming
-Tree trimming
-Driveway fence trimming
-
-
-Bedroom
-Study
-Game, hallway, stairwell
-Bathroom and roof
-Kitchen
-Living and porch
-Dining, Laundry and bath room
-
-
-080722
-Shopping town oak weg
-BackYard and fence
-Johnathan
-Laundry
-
-
-080622
-Shopping town weg
-Lawn and fence
-Johnathan
-Movie
-
-
-080222
-Cc bus card
-Weis
-Dss 4 apps
-Dss call
-Fb
-Setup coat hanger
-
-
-080122
-Amphenol app 1hr
-Library
-Assurance
-Bob
-Ebay
-Movie
-
-
-071422
-Social security and login.gov
-Groceries
-Sucha 2 hr
-
-
-071422
-Buying list
-Order lenses
-Haircut
-
-
-071322
-Workforce appt
-Water
-Groceries
-Clean mini fridge
-Create calendar schedules
-
-
-070122
-Gym membership
-Bus ticket
-Call meridian clin res
-Library
-
-
-063022
-Dss TA call
-Water
-Food
-Nyserda online app 0000477413 approved
-Insulation man
-Project id 551545
-7/11 Diane
-6/29 hispanic
-Update contractor to Zero Draft
-Phone 8776976278
-Zero Draft App 482193 denied
-
-
-062922
-Rumble ponies tfss 6pm-10pm
-Post office mail emijoi card
-DMV CDL exam book
-Sucha bank details
-AliExpress Huawei band 7 40d
-
-
-062822
-Election work
-debit card
-
-
-062722
-Lenses done
-Ccennyserda done
-Ear rotary shaver done
-Broome wf pharm course approval monday
-MW 5-9pm niagara cc 071822 to 091722
-Focus deposit money
-Ordered lenses
-
-
-062422
-Dss collect cash, heap award letter done
-MT Bank apply secured card
-Bc Assessor $25k done
-Serafini non CDL driver $20/hr
-Home insu. 25k
-Home insu Amica $400/yr@100k
+Cotning
+Wave dev boards
 
 
 
 
+Risc 5
+
+
+IBM
+4-8 dev boards
+
+
+Phone
+Tablet
+Laptop/notebook
+Tv
+Router
+Fitness band
+USB key
+
+
+DSS Smart device and DSS Smart service
+
+
+DSS Smart device
+
+
+Please make available DSS Smart devices (aka phone) at local broome county device retailers such as Best buy. At the present time these devices can only be procured via internet retail outlets.
+
+
+DSS Smart service
+
+
+Please make available DSS Smart service called data (aka plan) for the DSS Smart device at local broome county service retailers such as Verizon, ATT, Tmobile and Dish satellite. At the present time these plans can only be procured via internet retail outlets.
+
+
+aka = also known as (in government language).
+DSS = Department of Social Services
+
+
+
+
+DMV Title and Registration
+
+
+Please, make motor vehicle (aka DMV) Title and Registration records, publicly available and accessible via smart (Internet, kiosk,...), telephone and in person mediums.
+
+
+DMV = Department of motor vehicles
+aka = also known as (in government language)
+
+
+
+
+Panera
+
+
+
+
+Receipt in envelope (plastic/paper) in bag
+Cake in bag
+Towelettes in brown bag
+High chairs and tables outside
+Mud room outside
+Mud brush outside
+Towels outside
+Peeing area outside
+Covered bike Parking outside
+ 
+
+
+Socializing
+
+
+
+
+Dancing Dating Dinner
+
+
+PW
+]
+Boy Girl (go out and out)
+]
+W
+[
+Girl (stay single)
+Girl Girl (stay single friends)
+]
+TW
+[
+Girl Boy (have kids)
+]
+
+
+Mixed gender Restrooms
+
+
+PW
+[
+Keep the door open while you use it
+]
+W TW
+[
+Keep the door closed while you use it
+]
+
+
+PW = Proper White
+W = White
+T = Trailer White
 
 
 
@@ -559,33 +1345,322 @@ Amazon best buy aliexpress
 Lowe's
 
 
-Socializing
+Today Worklist
+
+
+Estonia
+Latvia
+Lithuania
+
+
+Rides
+Rm t
+Os t
+Barber w
+Bank dance w
+Wetsuit th
+Passport th
+Food farms th
 
 
 
 
-Dancing Dating Dinner
-
-
-PW W
-PW Boy Girl (go out and out)
-W Girl (stay single)
-W Girl Girl (stay single friends)
-Black
-Girl Boy (have kids)
-
-
-Mixed gender Restrooms
-
-
-PW
-Keep the door open while you use it
-Black
-Keep the door closed while you use it
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+Bank online
+Dispute tjm transactions aft
+Dispute key transaction aft
+Send jack an email mon
+
+
+Rhnscny, redcross, Roberson, mission, Lourdes, Nyuhs, gbhc,
+vanetta Luke move, records info.
+Redcross, Roberson, boe, rhnscny,
+Bu dance, Rm, gbhc, club
+
+
+Photocopy Broome, trial docs
+Email nyuhs irb moderna
+Email Lourdes health and fitness
+Email mayor. Garnar
+Email FedEx UPS
+Email FedEx Redcross, Roberson, BOE, rhnscny, bu dance
+
+
+Call Rob, Carl
+Set pickup for FedEx, ups
+Mail trial docs FedEx ups
+Mail Broome docs usps
+Ithaca
+Corning
+Ibm
+Ge
+Pickup shopping items
+Salt
+Disposable items
+
+
+Music eve space across from river
+
+
+Eyebrow mon
+Russian noon
+Dan dataflow
+Darren furnace
+New girl period songs
+
+
+Week 1
+Appliance, appts 4+1
+
+
+Week 2 Week 3
+Bu, (Cornell), Corning, ibm, ge
+
+
+Physical
+
+
+Front, side an rear lawn
+Right fence trimming
+Back, Left fence teimming
+Back yard trimming
+Tree trimming
+Driveway fence trimming
+
+
+Bedroom
+Study
+Game, hallway, stairwell
+Bathroom and roof
+Kitchen
+Living and porch
+Dining, Laundry and bath room
+
+
+080722
+Shopping town oak weg
+BackYard and fence
+Johnathan
+Laundry
+
+
+080622
+Shopping town weg
+Lawn and fence
+Johnathan
+Movie
+
+
+080222
+Cc bus card
+Weis
+Dss 4 apps
+Dss call
+Fb
+Setup coat hanger
+
+
+080122
+Amphenol app 1hr
+Library
+Assurance
+Bob
+Ebay
+Movie
+
+
+071422
+Social security and login.gov
+Groceries
+Sucha 2 hr
+
+
+071422
+Buying list
+Order lenses
+Haircut
+
+
+071322
+Workforce appt
+Water
+Groceries
+Clean mini fridge
+Create calendar schedules
+
+
+070122
+Gym membership
+Bus ticket
+Call meridian clin res
+Library
+
+
+063022
+Dss TA call
+Water
+Food
+Nyserda online app 0000477413 approved
+Insulation man
+Project id 551545
+7/11 Diane
+6/29 hispanic
+Update contractor to Zero Draft
+Phone 8776976278
+Zero Draft App 482193 denied
+
+
+062922
+Rumble ponies tfss 6pm-10pm
+Post office mail emijoi card
+DMV CDL exam book
+Sucha bank details
+AliExpress Huawei band 7 40d
+
+
+062822
+Election work
+debit card
+
+
+062722
+Lenses done
+Ccennyserda done
+Ear rotary shaver done
+Broome wf pharm course approval monday
+MW 5-9pm niagara cc 071822 to 091722
+Focus deposit money
+Ordered lenses
+
+
+062422
+Dss collect cash, heap award letter done
+MT Bank apply secured card
+Bc Assessor $25k done
+Serafini non CDL driver $20/hr
+Home insu. 25k
+Home insu Amica $400/yr@100k
+
+
+
+
+
+
+
+
+
+
+Tertiary Worklist
+
+
+
+
+120922
+Live/real time video, images... from camera to p2p and cloud
+
+
+111922
+App/screen pinning on fitness band
+
+
+111522
+Integrate email into com apps
+
+
+110522
+Personalize spam reporting in email
+
+
+102022
+p2p passport
+
+
+101422
+Add font changes bold type to browser rendition settings
+Add reordering of data rows in tables to browser rendition settings
+Integrate data rows into tables via browser
+
+
+101322
+Big tel video data service via apps
+
+
+101122
+TV dev board with working android TV os or working Google TV os
+
+
+100822
+Linux desktop apps integration into chrome os
+
+
+100622
+B2C payments (Meridian) via BZelle
+
+
+100522
+Automatic switching to home wifi from hotspot
+Big tel PSTN data service via apps
+
+
+071522
+Android TV os, be able to take screenshots, onscreen recording, saving of clips, sharing. All the things you have on android phone os
+
+
+Secondary Worklist
+
+
+101122
+Risc 5 TV dev board with working android TV os or working Google TV os
+
+
+101022
+Risc 5 dev board with ChromeOS and working Linux desktop apps or chromium os with working Linux desktop apps
+
+
+100922
+Chrome os with working Linux desktop apps or chromium os with working Linux desktop apps
+
+
+Primary Worklist
+
+
+
+
+Finance
+Bank
+
+
+Tech
+Risc 5 dev board with new os and new apps
+
+
+Sky vehicles transport aka drones
+
+
+Galaxy com Sat com
+
+
+P2p elections open voting not secret ballot
+Federal reserve bank account
+P2p Id not centralized id
+Professional judiciary internal recruitment no external elections or selections
+Professional executive service internal recruitment no external selections
+Professional foreign service internal recruitment no external selections
+Fcc commissioners professional standards org like engineering standards orgs
+Separate Double occupancy
 
 
 
@@ -634,99 +1709,6 @@ Maple tree apple farm orchard
 Supplies
 
 
-Planetarians game (Ii game, new game)
-
-
-
-
-Build and operationalize planet
-[
-Expand America
-Update America
-]
-
-
-Expand America
-[
-Build an Ii game (Focus on planets, solar system, galaxy)
-Take as many people as possible from earth to the newly built Ii game
-Build new name and expand culture
-Planet name
-Planet flag
-New name for Federal Reserve
-"Proper Federal reserve"
-Pricate equity, Investment, Commercial
-New name for Attorneys
-"proper Attorney's "
-New name for professionals
-"Proper Professionals "
-]
-
-
-Update America
-[
-Prevent double occupancy by maintaining separation (hang and maintain separation)
-Update university
-Update postal service
-]
-
-
-Cyril (C reel)
-
-
-Gwen cyril
-Skyler cyril
-Johanna Eric Miley Christine cyril
-Doug 25 Franklin
-Devin Conklin cyril
-Dominic Russell cyril
-
-
-John Putano HolyfatherPriest clinton
-James ss Kimberly Seane Brandon front cy
-Harold Will rm cyril
-Catholic pantry cyril
- Michelle sue Michelle
- Clover
- Clayton
- Bryan
- Troy
- Tom
-
-
- 
-
-
-Car (bike/kayak) and ferry (boat/ship )
-
-
-
-
-Earth Backup
-[
-Based out of Pyongyang or Kaliningrad
-Locations in Siberia and northeastern china
-]
-Earth Backup alternatives
-[
-Prebuilt - Kabul with two corridors
-Corridor to ocean
-Corridor to caspian
-]
-
-
-Start Binghamton, NY
-Dry Summer, mild winter...
-
-
-Alaska
-[
-Ottawa 20d J30
-St. Albans/Montreal 20d J10
-Albany 20d M20
-]
-
-
 Double occupancy
 
 
@@ -740,1284 +1722,3 @@ Federal Reserve ( )
 Judiciary ( )
 Executive (little)
 Legislative (thumb)
-
-
-Shopping list
-
-
-
-
-BB AZ
-Rechargeable batteries
-Rechargeable unit
-Fitness band strap
-Smart lock
-Wireless Charging adapter
-Wireless Charging pad
-Prepaid phones
-Headphones
-Titan private keys
-
-
-OS AZ
-Slide
-Kayak
-Wetsuit
-Sail
-
-
-MALL AZ
-Sport boots
-
-
-TG BL AZ supplies
-Red flag
-Foil 200
-Parchment paper 200
-
-
-DT
-Barbq
-Knives
-Diaper wipes
-
-
-5B
-Slide
-
-
-
-
-Americans game (Ii game, opening game)
-
-
-
-
-Loosing
-
-
-Operationalize America
-[
-Independents
-Net positive
-Militia news
-Independently joint
-Built by owners
-Look forward, move forward
-Perk things up
-]
-
-
-Back country culture
-[
-engineering culture or raise the barn culture.
-Owners and owning
-Walk the talk
-Be there because you want to be there
-Proper White aka Proper gringo
-American game, Closest is Northern European
-Hang and maintain separation, provide same information, provide same information use
-Operational mantra - I am Conservative
- (I am gay, I am girl, I am old, I am green)
-
-
-Restrict to owning one private personal (residence/homestead) property and one private business (commercial/commerce) property.
-Additional properties based on demonstration and practice.
-
-
-Run out your money, then Run out your labor to keep things at a high standard.
-Do not enter or take on things if you are unable to keep things at a high standard.
-Expand population and build cities, only if you can keep and expand the core Ii game.
-
-
-Gain a skill and keep the skill in the entire population by doing volume production abroad or automated production at home.
-
-
-Broaden and keep everything open, here and abroad, decentralize
-Product
-Process
-Tech
-People
-Culture
-
-
-Eliminate conflicts of interest
-
-
-We are not attorney's.
-We don't work like attorney's.
-
-
-Existential crisis for America.
-]
-
-
-Address the unwinding problem. Exit to an Ii game (American game) while running inside an Ei game (Royalist game) in real time. Keep Unwinding things as best as you can. (Keep addressing it as a tertiary focus,.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Open p2p software and web clients for publicly available government data (title, deed, registration, passport, drivers license...) and services (issuances...)
-
-
-Family, couple, adult, teenager and kid sizes and prices in ice creams and everything in big box stores
-Practice independence
-Family = Breast Feeding
-Dollar, three, five dollar stores only for practicing manners
-Government companies, if private companies are not interested in serving government clients (most commonly telecom companies)
-
-
-Open Web clients for cloud email services like gmail, (hotmail 0 years)... and other web services like maps, photos, drive, amazon, (best buy 0 years)... after 20 years of product launch
-
-
-Sectioning (aka narrowing) is not possible on one's own private property. Everywhere else sectioning (aka narrowing) is possible.
-
-
-
-
-
-
-
-
-
-
-
-
-Conservatives game (Ei game, blocking game, substitution game)
-
-
-
-
-Winning
-
-
-Operationalize Royalists
-[
-aka Legacy, Legacy bay (GOP, Go pee)
-Top level breach, bottom level breach
-Net negative
-Excessive hierarchial news
-Hierarchialy joint
-Built by unions, workers, ghetto
-Look backward, move backward
-One side
-Religious - legacy aka GOP
-Unions, workers, ghetto - legacy bay aka Go pee
-]
-
-
-City culture is real estate culture.
-[
-Rent collection and Renting. Talk the walk.
-Be a conservative or I will feed you to a conservative.
-WINO (White in color only = wino Red, wino Taco, wino Combo).
-More like an English, Southern European (south of northerns-scan), Eastern European game
-Maintain separation, different information, different use of information
-]
-
-
-Keep and propagate Royalists.
-[
-Keep it to Community owned aka Socialist owned to Communist owned to take down the communists to take down the home game (Independently owned) at home and abroad.
-]
-
-
-Keep shrinking the II core "and" at the same time keep expanding the Ei core.
-[
-Expand conservative population organically "and" Keep looping in conservative population with a lack of market required skills from around earth. Build cities as fast as you can. Try to convince other conservatives to build a suburban city "and" at the same time expand to a vertical city. Keep a high price differential between a vertical city and a suburban city. Use the price differential to make it fashionable to live in a vertical city.
-]
-
-
-Keep moving backward, Wind things down,
-Focus on killings and substitutions
-[
-Narrow and keep everything closed, both here and abroad, centralize
-Product
-Process
-Tech
-People
-Culture
-]
-
-
-Create and maintain conflicts of interest
-[
-Drive labor into unions and make them work like attorneys
-Drive people into poverty and make them do unsavoury things
-]
-
-
-Keep people in leadership with a lack of market required skills
-[
-Keep people above 65 and 55 (as close to 95 as possible = run them high)
-Keep females in leadership above 50 (as close to males as possible = run them high)
-]
- 
-Create and maintain sections
-[
-Males in miniscule numbers (English Americans, Scandinavian Americans- Northern males - Proper White)
-Run females higher than males
-Southern belles (English aka Southern females -wino Red)
-Taco belles (Southern European aka TexMex females - wino Taco)
-Pennsylvania belles (Eastern European aka ghetto females - wino Combo)
-Expect problems when working with sections other than yours
-]
-
-
-Broome County
-[
-Chinese market = government market
-American market = private market
-Broome county is a Chinese market
-About 25% of Broome county is legal
-(Needs to be close to zero. Unacceptable!).
-]
-
-
-Americans in miniscule numbers
-[
-"Americans"
-Americans aka Americans plus southerns (
-American trailer, English/Scandinavian Americans)
-"Northeners"
-English/Scandinavian Americans aka "northerners" plus southerns (English American trailer, Scan American trailer, Scots, Welsh, Irish, French, Spanish, italians, portuguese, Greeks, Poles, czechoslovaks, yugoslavs, ukrainians, Blacks, Hispanics, Latinos, Mexicans)
-"Southeners"
-English/British aka "Southerners" plus southerns (English/British Trailer, Scots, Welsh, Irish, Canadians, Australians, new Zealanders)
-"Northens"
-Scandinavians aka "northens" plus southerns (Scan trailer, Dutch, Belgians, w germans, swiss, austrians)
-"Germans"
-Germanics aka "germans" plus southerns (Germanic trailer, French, Spanish, Italian, greek)
-"Easterns"
-Russians aka "Easterns" plus southerns (Russian trailer, e germans, Poles, Czechoslovaks, yugoslavs, ukrainians)
-]
-
-
-Existential crisis for Israel
-[
-Irish, Catholics, Juice, Mormons, Parsis
-]
- 
-
-
-Smile designer Dentist f28 th ss 2:30 pm
-
-
-
-
-Service Narrowed
-Pay bribe Sir/Madam/Tip hat
-
-
-022823
-Dental Assistant/Hygienist area
-conversation get to know
-Setup comm
-Go forward or reschedule cleaning
-Dentist area
-closed conversation Private, dentist only
-Include westcott if needed, not techs
-Check out area
-Tech, process, next treatment plan, appointment
-
-
-022323
-Parking area outside covered
-mud brush area outside covered
-Peeing area outside
-Mud room area with palm cleaning pump
-Check in area
-Waiting area
-Dentist area in chair closed conversation
-Back country 5/yr accelerated
-Today's visit x ray,
-X ray area
- before and after pics for record
-Operating table area
-Give info at every step
-Check out area
-open conversation
-tech setup
-Process setup
-Proposed Treatment plan Envelope (sealed)
-Appointment next
-
-
-020223
-Accelerated schedule 4/year back country
-Plaque buildup
-Doctor vs Dentist Narrowed
-Process setup Narrowed
-Clinic vs office
-Being run as an office as opposed to a clinic
-Open and closed conversation with
-Dentist
-Clinic front
-Front desk appts.
-Back office insu. or corporate
-Office aka corporate aka centralized
-Tech setup Narrowed
-email
-Individuals
-
-
-RAKESH KUKATLA
-
-
-Comm
-rakeshbingk@gmail.com
-Skype, Zoom, Teams, git other smart apps
-
-
-Cottage
-7 ELM ST
-BINGHAMTON, NY 13905
-
-
-
-
-
-
-
-
-
-
-Tertiary Worklist
-
-
-031823
-Auto provisioning of VPN and encryption to
-private network
-a) home lan peers (over wifi and cable)
-b) home wan peers (over wifi and cable)
-
-
-031723
-Auto provisioning of VPN and encryption to
-public network
-a) incoming home lan connections via bridge (over wifi and cable)
-b) outgoing home wan connections via router (over wifi and cable)
-
-
-031623
-VPN (virtual private network) connections for all websites and web services provided by the respective site and service.
-
-
-031123
-Kids shopping areas in stores
-
-
-022723
-Smart locks with smart private keys (image, audio, video, instant message, file...) and connected to house grid, in retail channels.
-
-
-022423
-Left rear scap pocket and left chest pocket on jackets for phones
-
-
-022123
-Make data publicly available, maps - satellite, street....at very high precision
-
-
-022023
-Open p2p software and web clients for publicly available government data (title, deed, registration, passport, drivers license...) and services (issuances...)
-
-
-021923
-Family, couple, adult, teenager and kid sizes and prices in ice creams and everything in big box stores
-Practice independence
-Family = Breast Feeding
-Dollar, three, five dollar stores only for practicing manners
-Government companies, if private companies are not interested in serving government clients (most commonly telecom companies)
-
-
-021523
-Open Web clients for cloud email services like gmail, (hotmail 0 years),... and other web services like maps, photos, drive, amazon, (best buy 0 years)... after 20 years of product launch
-
-
-021223
-Add wifi auto roaming
-
-
-020623
-Add printing or saving in open file formats to ChromeOS and linux
-
-
-020423
-Opera custom names "quick access"
-
-
-Advertisements only stream
-Trailers only sttream
-Period 1600s, 1700s, 1800s reading only
-
-
-Seconday Worklist
-
-
-Take sports teams (NFL, NHL, NBA, MLB) championships abroad like tennis.
-
-
-First District Worklist
-
-
-Power plant nuclear
-Underground utilities
-Atm plus Asr auto. stock room
-Indoor recreation ngov
-Clinic ngov
-
-
-ctrc cbre
-Mtb Cushman
-Dance place hanna
-Restaurant place hanna
-
-
-Property auction limited to talent, then live in owners and then renters.
-
-
-Talent is back country culture.
-
-
-
-
-
-
-
-
-Lourdes Robinson, 306, ER f28 th hn 1 pm
-
-
-Service Narrowed
-Pay bribe Sir/Madam/Tip hat
-
-
-022823
-Leisner MD
-Th f28. hn, 1PM
-Check in area
- setup comm
-Physician assistant area
-Conversation get to know
-Setup comm
-Go forward or reschedule
-MD area
-conversation get to know
-Setup comm
-Go forward or reschedule
-
-
-Michelle Registration
-Sarah lpn
-Romoff DO
-Tracy Registration
-
-
-Registration photocopies 3 sides
-Pick up copies from last visit = med. Records
-Jacqln lpn
-Dee rn M
-MD no show
-
-
-DMV Title and Registration
-
-
-Please, make motor vehicle (aka DMV) Title and Registration records, publicly available and accessible via smart (Internet, kiosk,...), telephone and in person mediums.
-
-
-DMV = Department of motor vehicles
-aka = also known as (in government language)
-
-
-
-
-DSS Smart device and DSS Smart service
-
-
-DSS Smart device
-
-
-Please make available DSS Smart devices (aka phone) at local broome county device retailers such as Best buy. At the present time these devices can only be procured via internet retail outlets.
-
-
-DSS Smart service
-
-
-Please make available DSS Smart service called data (aka plan) for the DSS Smart device at local broome county service retailers such as Verizon, ATT, Tmobile and Dish satellite. At the present time these plans can only be procured via internet retail outlets.
-
-
-aka = also known as (in government language).
-DSS = Department of Social Services
-
-
-
-
-Financial Services
-
-
-Smart app bank nationwide first
-Commercial services
-Investment services
-Brokerage services
-Exchange services
-
-
-Legal services
-
-
-
-
-
-
-
-
-
-
-
-
-Move everything to browser.
-Customizable default tabs not there yet.
-
-
-Transport
-
-
-
-
-221222 nst 7i
-121222 nst 7i
-121222 nst 7o
-120822 ls 7i
-120722 ns 7o
-120722 ns 7i
-
-
-Risc 5
-
-
-IBM
-4-8 dev boards
-
-
-Phone
-Tablet
-Laptop/notebook
-Tv
-Router
-Fitness band
-USB key
-
-
-Antenna
-
-
-Cotning
-Wave dev boards
-
-
-
-
-Drones
-
-
-Ge
-Engine
-Airframe
-
-
-OS
-
-
-Live or hot patching and updates
-P2p in core
-
-
-Chromium os
-
-
-Chrome os
-China os name? Forgetting
-
-
-Android TV os
-
-
-Google TV os
-China tv os
-
-
-Android fitness band os
-
-
-Google fitness band os
-China fitness band os
-
-
-Linux
-
-
-Router os
-
-
-Electronics
-
-
-Hardware key fido2 2x USB nfc just get it
-Yubikey 55d bought on 081022 2x
-
-
-
-
-Tablet 300d sd695, wifi6 or higher
-Lenovo xiaoxin pad plus
-225d s750g a11 6s128 wf5 bt5
-Real me pad X
-280d sd695 6s128 wf5 bt5
-
-
-Lenovo xiaoxin Pad 2022
-190d s680g a12 6s128 wf5 bt5 1
-Honor pad 8
-250d sd680 a12 6s128 wfax bt5
-Oppo pad air
-250d sd680 a12 6s128 wfax bt5
-Nokia t21
-TCL tabmax
-Onn 4s64 200d wal
-
-
-Headphones In ear 35d
-Jbl tune 210 40d
-Chinese
-
-
-Bluetooth speaker 80d
-JBL charge 4 100d tjm
-JBL flip 5 100d wal
-
-
-Laptop 600d -800d Linux or macos-bsd unix
-12-14 inch
-i5 10gen or higher or ryzen
-16gb ram and 512gb SSD std.
-Dell 800d
-Hp 600d
-Lenovo 600d
-Acer 600
-Chinese
-Huawei 675d
-
-
-Phone 250d
-Tcl 10 5g 765 6g128 125d Verizon prepaid
-Moto one series 5g ace
-lacks c bands, wifi6ax, a12, has 4k cam bought 080622 120d
-Moto 5g Ace tcl 10 5g one plus Nord ce2 5g
-Moto edge s
-
-
-7 series 750 2.4g or higher
-MTK Dimensity series 900 2.4g or higher
-Main camera 4k or higher
-Selfie cam 1080p or higher
-C band or higher
-Bt5.1 or higher
-Wifi6 or higher
-6s128 or higher
-A12 or higher
-30w charging or higher
-90hz screen refresh or higher
-Ebay locked att 120d 750
-Moto one ace 5g $250 750
-Moto edge 2021 $400 778
-
-
-Amazon.de
-Samsung A52s M52 5g 285d
-Bbk Oppo reno 4 5g 250d
-Bbk Real me 7 5g 275d
-Xiaomi mi 10t lite 5g 275d
-Bbk vivo
-
-
-TV
-6gb ram
-16gb or higher storage
-7 series or higher]
-
-
-PC monitors 200d
-20 to 26 inch 100x2
-
-
-Fitness band $45 GPS nfc microphone 5atm
-Huawei band 7 nfc 45d
-Xiaomi band 7 pro 65d GPS nfc microphone
-Huawei watch fit 60d gps micro
-Huawei watch fit2 120d
-Huawei watch D 360d blood pres, ecg, skin temp ip68
-Huawei band 7 40d bought 062922
-
-
-Headphones Over head 50d
-NC, over ear, bt
-JBL 760NC 60d bought 072922
-Jbl 510 btw 50d wal
-Sony wh-ch510 40d
-Anker q30 75d
-
-
-Risc 5
-
-
-Development boards 200d
-8 cores @ 2ghz
-16gb ram
-Wifi 6
-
-
-Us Sifive Intel foundry board computer
-Taiwan Andes Intel foundry fpga
-Ibm
-
-
-China
-Starfive
-Leapfive
-Pi64
-
-
-Health
-
-
-Bcbs
-Cdphp
-Nyuhs
-
-
-Primary care
-Lourdes sports medicine
-
-
-Specialist care
-Hss
-
-
-Dancing
-
-
-Am Rhumba
-3 moves
-
-
-Basic
-
-
-Underarm turn
-Left leg out to left
-right leg to back arms raised
-
-
-New Yorker 3 or 4
-Hips towards Left then hips towards right
-
-
-
-
-
-
-
-
-
-
-
-
-Foxtrot
-3 moves
-
-
-Is a smooth, progressive dance characterized by long, continuous flowing movements
-
-
-Basic
-Slow slow At an angle Left forward Then right forward
-Quick quick At the opposite angle Left side
-And then right meet at side
-Left backward then right backward
-Quick quick At the opposite angle Left side and then right meet at side
-
-
-Middle shuffle
-Basic
-Slow slow At an angle Left forward Then right forward
-Quick quick At the opposite angle Left side
-And then right meet at side
-Shuffle
-Quick quick to right
-Quick quick to left
-Quick quick to right
-Quick quick on angle to left for exit
-Basic
-Slow slow At an angle Left forward Then right forward
-Quick quick At the opposite angle Left side
-And then right meet at side
-
-
-Underarm turn
-Basic
- slow At an angle Left forward Then right forward
-Quick quick At the opposite angle Left to side
-And then right meet at side
-Underarm box move
-Enter boxx
- Angle left slow forward then quick quick right at parallel on side then left meet right
- Do a full box
-Right slow back quick quick left towards left side half box then right meet left
- Left slow forward right towards right side half box then left meet right
- Exit box to put in basic
- Right slow back quick quick left towards left side half box then right meet left at angle
- Do basic
- slow At an angle Left forward Then right forward
-Quick quick At the opposite angle Left to side
-And then right meet at side
- 
-Salsa
-3 moves
-
-
-Basic move
-Left foot Forward back to center 1 to 4
-Right foot backward back to center 5 to 8
-
-
-Underarm turn
-Left foot Forward back to center 1 to 4
-Right foot backward signal rt arm out for turn
-Right foot back to center raise arm for turn
-
-
-Side turn
-Left foot Forward on back turn rt foot to side
-Let partner cross
-Right foot backward on back turn left foot to side let partner cross. You are now facing face to the wall.
-Left foot Forward on back turn rt foot to side
-Let partner cross
-Right foot backward on back turn left foot to side let partner cross. You are now facing face to the room.
-
-
-Swing
-3 moves
-
-
-Bachata
-3 moves
-
-
-Family
-
-
-25k to daughter/son or 2yrs child care
-25 k to grandchild or car at 16
-25k or house inheritance to daughter/son
-
-
-75k
-
-
-Convictions
-
-
-Do not have any civil judgements from a civil court against me.
-
-
-Have judgements on small claims (amount in disputes are less than $100) from a criminal court.
-
-
-Have a judgement on a no claim (amount in dispute is $0) from a criminal court. (Civil trespass)
-
-
-Have judgement on a small claim (amount in dispute is less than $100) from a criminal court.
-
-
-
-
-
-
-
-
-
-
-
-
-Lower crimnal courts (supported by public prosecutors) have intruded on civil claims and handed out criminal misdemeanors like parking tickets.
-
-
-This has in the past and continues to disenfranchise me of my enjoyment of liberties both professional (including contracts, employment) and personal (including social, housing) available to me as an individual in an open and free society.
-
-
-Restaurant is open to the public and serves food. Owner is responsible to file civil suit or small claims
-Mall is open to the public, owner has responsibility to file civil suit instead of using criminal court (and public prosecutor).
-
-
-Last criminal court judge siad I am crazy, and a doctor and a judge associated with the criminal court agreed.
-
-
-A doctor and an adjudicator (administrative judge) sides with me.
-
-
-I have more confidence on the process originating from the civil side as opposed to the criminal side.
-
-
-Attorney account
-
-
-Want to provide help in form of giving gifts While alive and after death.
-
-
-While alive General transactional account.
-
-
-Client creates an account (general transactional account not a trust account) with a transactional attorney for the purpose of helping the client give gifts in cash.
-
-
-At and after death of one parent , purpose trust
-
-
-At and after death of one parent above general transactional account converts to a purpose trust with a transactional attorney for the purpose of helping client give gifts in cash.
-
-
-While alive, at and after death, purpose trust
-
-
-Client creates an account (purpose trust account) with a transactional attorney for the purpose of helping the client give gifts in cash.
-
-
-
-
-Taxes lifetime
-30k 50-65 15x 2k
-20k. 65-85 20x 1k
-10k. 85-95 10x 1k
-
-
-50-60k
-
-
-Purpose trust at a firm
-Beneficiary is the purpose. (not a person).
-Trustee is trustor/grantor appointed
-Trustee maybe an attorney or friend or family
-Enforcer is trustor/grantor appointed
-Enforcer maybe an attorney or friend or family
-
-
-Purpose
-Distribute monies
-1. for build, rebuild, acquisition, maintenance of individual human habitation.
-2. for build, rebuild, acquisition, maintenance of individual human transportation.
-Distribute goods
-1. For individual human habitation.
-2. For individual human transportation.
-Distribute services
-1. For individual human habitation.
-2. For individual human transportation
-
-
-
-
-
-
-
-
-
-
-The businessman said: “Instead of ‘going public’, you could say we’re ‘going purpose’. Instead of extracting value from nature and transforming it into wealth for investors, we’ll use the wealth Patagonia creates to protect the source of all wealth
-
-
-Weatherization Empower electrify
-
-
-Smart electric panel (wifi and app controls).
-Increased panel capacity from 60 Amp to 200 Amp
-Wiring upgrades
-Heat pump dryer
-Heat pump water heater
-Electric induction oven
-Ventilation (Including ducts)
-Furnace venting
-dryer venting
-water heater venting
-Aluminum air ducts for inside house
-Heat pump air source, ducted, multi
-Prefer geothermal heat pump but not covered by programs
-
-
-Ny sun solar roof panel on metallic roof
-2 Ev charging outlet home
-Ev car
-Storage batteries
-
-
-Electric stoves
-Electric heat pumps
-Electric vehicles
-
-
-Heating
-Air conditioning = cooling and dehumidifying
-Ventilation = ducts and exchange with fresh air
-
-
-Inflation reduction act 2023
-$8000 heat pump installation for heating
-$1,750 for a heat pump water heater,
-$840 for an electric stove, and
-$840 for an electric clothes dryer
-$4,000 for an upgraded breaker box,
-$2,500 for upgraded electrical wiring
-$1,600 for insulation, ventilation and sealing
-
-
-
-
-
-
-
-
-
-
-Marinades
-
-
-.5 cup of marinade per lb of meat
-8 table spoons equals .5 cup
-1 tablespoon olive oil is 100cals
-1 tablespoon 0p Greek yogurt 10cals
-
-
-Four basic items
-
-
-Binding - olive oil
-Tenderize - dairy, plant proteases, plant acids
-Flavorizze - herbs and spices
-Finalize - Garlic, shallots or onion
-
-
-1 part tenderize 3 parts Binding
-
-
-My recipe
-8 tablespoons Greek yogurt
-Flavor 1 herb and 1 spice
-Garlic or shallots
-
-
-
-
-Health
-
-
-
-
-090722
-110/68
-78kg 171lb
-
-
-Housing
-
-
-Property taxes
-
-
-City downtown midtown uptown
-Suburbs town village
-county Unincorporated area
-
-
-Everyone in the country pays county taxes 2p
-
-
-Outdoor Trees Maple and Apple
-Line of tile in front and side lawn
-White tarmac paint on driveway
-
-
-Meats
-
-
-Weis
-Breast 4d
-Tenders 5d
-Turk breast 5d
-Spiced breast 6d
-Beef stew 7d
-Steak 8d
-Shrimp 15d
-Salmon 7.5d
-Clams 10d
-Mussels 15d
-
-
-Yearly
-
-
-Minimum 500pm or 125pw
-
-
-1800 taxes. 150pm
-200 lenses
-300 gym
-350 bus
-500 insurance
-2400 shopping
-6k total
-
-
-Diet
-
-
-Protein meats
-Chicken
-Beef
-Fish filet salmon
-She'll fish
-
-
-Protein dairy
-Greek yogurt
-Cottage cheese
-Sour cream
-
-
-Protein plants
-Beans
-
-
-Carbs Greens
-Spring mix
-Spring spinach mix
-Arugula
-
-
-Carbs Greens chips or puree
-Kale
-Collard
-Chard
-
-
-Carbs chewy
-Cauliflower
-Broccoli
-Carrots
-Brussel sprouts
-Beets
-
-
-Carbs watery
-Tomato
-Cucumber
-Baby oeppers
-French beans
-Asparagus
-
-
-Carbs soft
-Sweet potato
-
-
-
-
-Mine
-
-
-My per month
-50d repat
-25d gym
-25d grooming
-
-
-Pending
-90d Spectrum
-
-
-Cornell co-op extension
-
-
-Eileen Hanrahan
-
-
-Per month
-food 300d
-House maintenance 125d
-Health 100d
-Utilities 75d
-Broadband 30d
-Cell phone 30d
-Total 600-700d
-
-
-My per month
-50d repat
-25d gym
-25d grooming
-
-
-
-
-
-
-Empower program
-Heap award letter
-SNAP award letter
-10k for energy upgrades
-
-
-20k with heap award letter
-Recent Nyseg bill page 3 and 4
-City tax bill
-
-
-Empower program
-Energy assessment
-Attic insulation
-air sealing of walls
-Furnace hotwater tank
-Refrigerator or feeezer
-Windows or doors
-Day or two, month or two
-
-
-Mary at zero draft. A contractor for empower program.
-
-
-Weatherization assistance program
-9 months to a year wait
-
-
-Broome county reuse center or recycling center at the land fill. For windows and doors.
-Eco center
-286 Knapp rd
-607.778.2250
