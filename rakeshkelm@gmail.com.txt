@@ -49,16 +49,20 @@ Albany 20d M20
 Cyril (C reel)
 
 
+C reel
+[
 Gwen cyril
 Skyler cyril
 Johanna Eric Miley Christine cyril
 Doug 25 Franklin
 Devin Conklin cyril
 Dominic Russell cyril
+]
 
 
 John Putano HolyfatherPastorPriest clinton
-James ss Kimberly Seane Brandon front cy
+[
+James ss Kimberly Seane Brandon front
 Harold Will rm cyril
 Catholic pantry cyril
  Michelle sue Michelle
@@ -67,23 +71,44 @@ Catholic pantry cyril
  Bryan
  Troy
  Tom
+ ]
+
+
+Ask for email and email Catholic pantry
+My Printer isnt functioning are you able to replace it. I can dictate, I am unable to write.
 
 
 Pantry, Supplies and Services
 [
+Running low on:
+Dairy, Meat, Chocolate, Sugar, Syrup - clean food
 Parchment and foil - clean cooking
 Cutlery and Napkins - clean eating
 Razor and cream - clean face
 Laundry and detergent - clean clothes
  Washer and dryer
 Plumbing and water - clean body
- Diaper wipes, Facial wipes
+ Diaper wipes, Facial towelettes, facial tissue
 Scissors and trimming - clean head top
+ Barber or Stylist
+ Car and bike - clean transport
+
+
+Ran out of:
+Dairy, Meat, Chocolate, Sugar, Syrup
+Parchment and foil
+Drinking Glasses
+Cutlery
+Razors and shaving cream
+Head hair trimming
+Diaper wipes
+Facial wipes
+Facial towelettes
+Car
+Bike
 ]
 
 
-Cutlery Glasses
-Shaving Razor
 
 
 
@@ -98,7 +123,7 @@ Planet Commercial/Commerce
 
 Private Commercial/Commerce
 [
-Financial Services with stips
+Financial Services
 {
 Retail
 (
@@ -122,9 +147,7 @@ Wave
 
 
 Electron
-
-
-AmComm
+Comm
 
 
 Atom
@@ -223,6 +246,8 @@ New name for Doctors
 "Proper Doctor's"
 Operational mantra - I am American
  (I am Male)
+ What is your "Title"? and
+ What was your "Deed"?
 ]
 
 
@@ -238,6 +263,8 @@ Existential crisis for Earth
 [
 I am American
 I am Male
+What is your "Title"? and
+What was your "Deed"?
 ]
 
 
@@ -340,10 +367,10 @@ Existential crisis for America.
 
 Address the unwinding problem.
 [
-Keep Unwinding things as best as you can (Keep addressing it as a tertiary focus)
+Keep Unwinding (hundreds of years of winding) hundreds of millions of people as best as you can (Keep addressing it as a tertiary focus)
 
 
-Exit to an Ii game (American game) while running inside an Ei game (Royalist game) in real time
+Exit to an Ii game ((Planetarians game - primary focus) while running inside an Ei game (Royalist game - secondary focus) in real time
 ]
 
 
@@ -403,7 +430,7 @@ Winning
 
 Operationalize Royalists
 [
-aka Legacy, Legacy bay (GOP, Go pee)
+aka Legacy (GOP-Big guy), Legacy bay (Go pee-Big boss)
 Top level breach, bottom level breach
 Net negative
 Escape(ism) {Boobies, Booties}
@@ -471,7 +498,7 @@ Create and maintain sections
 Males in miniscule numbers (Americans- Northern males - Proper White, closest English/Welsh Americans, Scandinavian Americans)
 
 
-Run females higher than males
+Run females (white, trailer white) higher than males (proper white)
 Southern belles (English/Welsh aka Southern females -wino Red)
 Taco belles (Scottish/SouthernEuropean aka TexMex females - wino Taco)
 Pennsylvania belles (Irish/EasternEuropean aka ghetto/slave/fullyWoundup females - wino Combo)
@@ -938,6 +965,39 @@ Office aka corporate aka centralized
 Tech setup Narrowed
 email
 Individuals
+
+
+Wear a Skirt and Top
+
+
+Proper White/White on the inside
+
+
+Illegal Males = Breaking law/process on own
+[
+Living in the USA
+Flight attendant ft
+Waiter ft
+Nurse ft
+Retail food/beverage ft
+Street Electronics ft
+ft = full time
+]
+
+
+Illegal Males = Breaking law/process on force
+[
+Living in the USA
+Public transit
+Grocery store
+Supplies store
+Cafe
+Catholic pantry
+]
+
+
+
+
 
 
 Holiday Calendar
