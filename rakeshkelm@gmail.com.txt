@@ -304,6 +304,8 @@ Operational mantra - I am American
  (I am Male)
  What is your "Title"? and
  What was your "Deed"?
+ Elon
+ Prince (Erik, Alwaleed)
 ]
 
 
@@ -321,6 +323,8 @@ I am American
 I am Male
 What is your "Title"? and
 What was your "Deed"?
+Elon
+Prince (Erik, Alwaleed)
 ]
 
 
@@ -338,7 +342,7 @@ Independents
 Net positive
 Exit(s) (Masturbation, Fornication)
 Militia news
-Independently joint
+Independently joint (p2p, peer to peer)
 Built by owners
 Look forward, move forward
 Perk things up
@@ -496,11 +500,11 @@ Top level breach, bottom level breach
 Net negative
 Escape(ism) {Boobies, Booties}
 Excessive hierarchial news
-Hierarchialy joint
-Built by unions, workers, ghetto
+Hierarchialy joint (Cloud, Skyscraper)
+Built by Religions, unions, workers, ghetto
 Look backward, move backward
 One side
-Religious - aka legacy (GOP-Big guy)
+Religions- aka legacy (GOP-Big guy)
 Unions, workers, ghetto - aka legacy bay (Go pee-Big boss)
 ]
 
