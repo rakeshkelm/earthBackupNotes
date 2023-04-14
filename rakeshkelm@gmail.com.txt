@@ -324,8 +324,8 @@ I am American
 I am Male
 What is your "Title"? and
 What was your "Deed"?
-Elon
-Prince (Erik, Alwaleed)
+I am Elon
+I am Prince (Erik, Alwaleed)
 ]
 
 
