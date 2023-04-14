@@ -93,6 +93,7 @@ Scissors and trimming - clean head top
 Ran out of:
 Dairy
 Meat
+Full body armor
 Chocolate
 Sugar cakes brownies pies ice cream
 Syrup
@@ -269,7 +270,7 @@ ATM bank
 
 
 
-Planetarians game (Ii game, new game, PW)
+Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's)
 
 
 
@@ -328,7 +329,7 @@ Prince (Erik, Alwaleed)
 ]
 
 
-Americans game (Ii game, opening game, W)
+Americans game (Ii game, opening game, White, p2p and internet, citizen's and prince's)
 
 
 
@@ -355,7 +356,7 @@ engineering culture or raise the barn culture
 Owners and owning
 Walk the talk
 Be there because you want to be there
-Proper white aka Proper gringo
+Proper white (aka proper gringo), white on the inside
 American game, Closest is Northern European
 Hang and maintain information separation, provide same information, provide same information use
 Operational mantra - I am Conservative
@@ -412,12 +413,12 @@ We are not Attorney's
 We don't work like Attorney's
 
 
-We are not Business Administrators
-We don't work like Business Administrators
+We are not Business Administrator's
+We don't work like Business Administrator's
 
 
-We are not Doctors
-We don't work like Doctors
+We are not Doctor's
+We don't work like Doctor's
 }
 
 
@@ -485,7 +486,7 @@ Sectioning (aka narrowing) is not possible on one's own private property. Everyw
 
 
 
-Conservatives game (Ei game, blocking game, substitution game, TW)
+Conservatives game (Ei game, blocking game, substitution game, Trailer White, Cloud and Web Princesses)
 
 
 
@@ -504,7 +505,7 @@ Hierarchialy joint (Cloud, Skyscraper)
 Built by Religions, unions, workers, ghetto
 Look backward, move backward
 One side
-Religions- aka legacy (GOP-Big guy)
+Religions - aka legacy (GOP-Big guy)
 Unions, workers, ghetto - aka legacy bay (Go pee-Big boss)
 ]
 
@@ -769,10 +770,12 @@ Take sports teams (NFL, NHL, NBA, MLB) championships abroad like tennis.
 RAKESH KUKATLA
 
 
-Comm
+Communication
 rakeshkelm@gmail.com
 smart apps: rakeshbingk@gmail.com
-Skype, Zoom, Teams, git other smart apps
+p2p : git
+internet : https://github.com/rakeshkelm/notes
+web : Skype, Zoom, Teams and other
 
 
 Cottage
@@ -875,7 +878,9 @@ Profile
 Rakesh Kukatla
 rakeshkelm@gmail.com
 smart apps : rakeshbingk@gmail.com
-Skype, Zoom, Teams, git and other.
+p2p : git
+internet : https://github.com/rakeshkelm/notes
+web : Skype, Zoom, Teams and other
 7 Elm Street
 Exurban New York-Binghamton, NY, USA.
 
@@ -890,6 +895,8 @@ Rakesh Kukatla
 Nov 2021 - present
 Exurban New York-Binghamton, NY, USA.
 Earth Backup
+p2p : git
+web : github.com/rakeshkelm/notes
 Finished Southern route (Mexico - 2021, 2022) and starting on Northern route (Alaska - May 2023).
 
 
