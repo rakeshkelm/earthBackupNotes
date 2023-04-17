@@ -1,10 +1,28 @@
-﻿Wear a Skirt and a Top
+﻿Real
 
 
-Proper White/White on the inside
+Emily
 
 
-Illegal Males = Breaking law/process on own
+Illegal Males - Game Attire
+
+
+
+
+Proper White
+[
+Playing Conservatives game, Americans game
+Wear a Skirt and a top
+If a skirt and a top are unavailable,
+{
+Wear a Jacket (aka purse)
+Ask for Name and Chocolate/candy from girls
+}
+aka = also known as
+]
+
+
+Conservatives game = Breaking law/process on own
 [
 Living in the USA
 Flight attendant ft
@@ -17,7 +35,7 @@ ft = full time
 ]
 
 
-Illegal Males = Breaking law/process on force
+Americans game = Breaking law/process on force
 [
 Living in the USA
 Public transit
@@ -30,6 +48,16 @@ Catholic pantry
 
 
 
+
+
+Music List
+
+
+Proper White
+[
+Princesses don't cry, boys are running high
+Baby, I can turn you on
+]
 
 
 Cyril (C reel)
@@ -88,8 +116,6 @@ Scissors and trimming - clean head top
  Car and bike - clean terrestrial
  Wet suit and kayak - clean marine
  
-
-
 Ran out of:
 Dairy
 Meat
@@ -105,7 +131,7 @@ Drinking Glasses
 Cutlery
 Razors
 shaving cream
-Sunglasses dark shades
+Sunglasses darker shades
 Head hair trimming
 Diaper wipes
 Facial wipes
@@ -147,8 +173,8 @@ Locations in Siberia and northeastern china
 Backup 2
 [
 Prebuilt - Kabul with two corridors
-Corridor to ocean
 Corridor to caspian
+Corridor to ocean
 ]
 
 
@@ -212,6 +238,7 @@ Risc 5
 Antenna
 Drones
 Satellite
+Ka bull
 }
 
 
@@ -278,7 +305,7 @@ Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's)
 Fucking
 
 
-Build and operationalize planet
+Build and operationalize a planet
 [
 Expand Independent Interest
 Update Independent Interest
@@ -329,7 +356,7 @@ I am Prince (Erik, Alwaleed)
 ]
 
 
-Americans game (Ii game, opening game, White, p2p and internet, citizen's and prince's)
+Americans game (Ii game, opening game, White, Web, prince's)
 
 
 
@@ -486,7 +513,7 @@ Sectioning (aka narrowing) is not possible on one's own private property. Everyw
 
 
 
-Conservatives game (Ei game, blocking game, substitution game, Trailer White, Cloud and Web Princesses)
+Conservatives game (Ei game, blocking game, substitution game, Trailer White, Cloud, Princesse's)
 
 
 
@@ -774,8 +801,8 @@ Communication
 rakeshkelm@gmail.com
 smart apps: rakeshbingk@gmail.com
 p2p : git
-internet : https://github.com/rakeshkelm/notes
-web : Skype, Zoom, Teams and other
+web: https://github.com/rakeshkelm/notes
+Cloud: Skype, Zoom, Teams and other
 
 
 Cottage
