@@ -1,4 +1,4 @@
-﻿Real
+﻿Real List
 
 
 Emily
@@ -12,9 +12,12 @@ Illegal Males - Game Attire
 Proper White
 [
 Playing Conservatives game, Americans game
-Wear a Skirt and a top
-If a skirt and a top are unavailable,
 {
+Wear a Skirt and a top/Blouse
+Ask for Name and Chocolate/candy from girls
+
+
+If a Skirt and a top/Blouse are unavailable,
 Wear a Jacket (aka purse)
 Ask for Name and Chocolate/candy from girls
 }
@@ -641,6 +644,8 @@ I am Irish, I am Catholic, I am Juice, I am Mormon, I am Parsi
 Primary worklist
 
 
+
+
 Snow removal machine
 (Nada snow blower)
 
@@ -719,6 +724,12 @@ Cab company courtesy email
 
 
 Tertiary Worklist
+
+
+041723
+p2p πliverealnet {network, elements}
+p2p email π@liverealnet
+p2p media πwliverealnetmedia
 
 
 031823
