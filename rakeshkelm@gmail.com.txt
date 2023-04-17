@@ -170,6 +170,7 @@ Backup 1
 [
 Based out of Pyongyang or Kaliningrad
 Locations in Siberia and northeastern china
+I am from USA
 ]
 
 
@@ -178,6 +179,7 @@ Backup 2
 Prebuilt - Kabul with two corridors
 Corridor to caspian
 Corridor to ocean
+I am from USA
 ]
 
 
@@ -186,6 +188,7 @@ Backup 3
 Based out of northern Canada
 Close to Hudson Bay
 Close to alaska
+I am from USA
 ]
 
 
