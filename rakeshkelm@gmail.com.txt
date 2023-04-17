@@ -4,6 +4,46 @@
 Emily
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Illegal Males - Game Attire
 
 
@@ -51,6 +91,85 @@ Catholic pantry
 
 
 
+
+
+Earth Backup
+
+
+Stipulations
+[
+99 year term ownership with early return, if able to exit to a planet
+Auto renewal for successive 99 year term(s) at a time, if unable to exit to a planet
+]
+
+
+Backup 1
+[
+Based out of Pyongyang or Kaliningrad
+Locations in Siberia and northeastern china
+I am from USA
+]
+
+
+Backup 2
+[
+Prebuilt - Kabul with two corridors
+Corridor to caspian
+Corridor to ocean
+I am from USA
+]
+
+
+Backup 3
+[
+Based out of northern Canada
+Close to Hudson Bay
+Close to alaska
+I am from USA
+]
+
+
+Car (bike/kayak) and ferry (boat/ship)
+
+
+Start Binghamton, NY
+Dry Summer, mild winter...
+
+
+I am taking a bike and kayak with me. I am from the USA. You pick the car and fuel.
+
+
+Alaska
+[
+Ottawa 20d J30
+St. Albans/Montreal 20d J10
+Albany 20d M20
+]
+
+
+Primary worklist
+
+
+
+
+I am taking a bike and kayak with me. I am from the USA. You pick the car and fuel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Snow removal machine
+(Nada snow blower)
+Right of way is present on all four sides of the property.
 
 
 Music List
@@ -154,60 +273,6 @@ Kayak
 
 
  
-
-
-Earth Backup
-
-
-Stipulations
-[
-99 year term ownership with early return, if able to exit to a planet
-Auto renewal for successive 99 year term(s) at a time, if unable to exit to a planet
-]
-
-
-Backup 1
-[
-Based out of Pyongyang or Kaliningrad
-Locations in Siberia and northeastern china
-I am from USA
-]
-
-
-Backup 2
-[
-Prebuilt - Kabul with two corridors
-Corridor to caspian
-Corridor to ocean
-I am from USA
-]
-
-
-Backup 3
-[
-Based out of northern Canada
-Close to Hudson Bay
-Close to alaska
-I am from USA
-]
-
-
-Car (bike/kayak) and ferry (boat/ship)
-
-
-Start Binghamton, NY
-Dry Summer, mild winter...
-
-
-I am taking a bike and kayak with me. I am from the USA. You pick the car and fuel.
-
-
-Alaska
-[
-Ottawa 20d J30
-St. Albans/Montreal 20d J10
-Albany 20d M20
-]
 
 
 Planet Commercial/Commerce
@@ -702,23 +767,6 @@ Slide
 
 
 
-Primary worklist
-
-
-
-
-I am taking a bike and kayak with me. I am from the USA. You pick the car and fuel.
-
-
-
-
-
-
-Snow removal machine
-(Nada snow blower)
-Right of way is present on all four sides of the property.
-
-
 Today worklist
 
 
@@ -787,7 +835,7 @@ Tertiary Worklist
 041723
 p2p πliverealnet {network, elements}
 p2p email π@liverealnet
-p2p media πwliverealnetmedia
+p2p media πωliverealnet
 
 
 031823
@@ -929,14 +977,14 @@ Rakesh Kukatla
 rakeshkelm@gmail.com
 smart apps : rakeshbingk@gmail.com
 p2p : git
-internet : https://github.com/rakeshkelm/notes
-web : Skype, Zoom, Teams and other
+web : github.com/rakeshkelm/notes
+Cloud : Skype, Zoom, Teams and other
 7 Elm Street
 Exurban New York-Binghamton, NY, USA.
 
 
 About
-Build and Operationalize planet
+Build and Operationalize a planet
 Expand and Update Independent Interest.
 
 
@@ -986,7 +1034,7 @@ Increased impact and effectiveness by establishing an information technology pro
 
 
 Consultant
-Home Owners Loan Corp.Home Owners Loan Corp.
+Home Owners Loan Corp.
 Dec 1999 - Feb 2000 · 3 mos
 Atlanta, GA, USA.
 Financial Services
