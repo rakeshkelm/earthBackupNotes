@@ -102,13 +102,54 @@ Emily
 
 
 
+Primary worklist
+
+
+Play with
+[
+Fidelity
+]
+
+
+Taming of the Shrew
+[
+I am here to drive off, with a car today.
+
+
+I will be driving with Amy. I am also taking a bike and kayak with me. I am on my way to expand and update the independent interest. I am from the USA. Approximate final destination is Pyongyang, North Korea.
+
+
+You pick the car and fuel.
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Snow removal machine
+(Nada snow blower)
+Right of way is present on all four sides of the property.
+
+
 Tertiary Worklist
 
 
 041723
-p2p πliverealnet {network, elements}
-p2p email π@liverealnet
-p2p media πωliverealnet
+[
+network, elements
+p2p, πliverealnet
+p2p, email π@liverealnet
+p2p, media πωliverealnet
+]
 
 
 031823
@@ -176,44 +217,6 @@ Opera custom names "quick access"
 Advertisements only stream
 Trailers only sttream
 Period 1600s, 1700s, 1800s reading only
-
-
-Primary worklist
-
-
-Play with
-[
-Fidelity
-]
-
-
-Taming of the Shrew
-[
-I am here to drive off with a car today.
-
-
-I will be driving with Amy. I am also taking a bike and kayak with me. I am on my way to expand and update the independent interest. I am from the USA. Approximate final destination is Pyongyang, North Korea.
-
-
-You pick the car and fuel.
-]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Snow removal machine
-(Nada snow blower)
-Right of way is present on all four sides of the property.
 
 
 Cyril (C reel)
