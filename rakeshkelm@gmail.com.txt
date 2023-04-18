@@ -145,10 +145,12 @@ Tertiary Worklist
 
 041723
 [
-network, elements
+Network, scale git
 p2p, πliverealnet
 p2p, email π@liverealnet
 p2p, media πωliverealnet
+network, elements
+p2p, git
 ]
 
 
