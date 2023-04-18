@@ -93,66 +93,92 @@ Catholic pantry
 
 
 
-Earth Backup
+Tertiary Worklist
 
 
-Stipulations
-[
-99 year term ownership with early return, if able to exit to a planet
-Auto renewal for successive 99 year term(s) at a time, if unable to exit to a planet
-]
+041723
+p2p πliverealnet {network, elements}
+p2p email π@liverealnet
+p2p media πωliverealnet
 
 
-Backup 1
-[
-Based out of Pyongyang or Kaliningrad
-Locations in Siberia and northeastern china
-I am from USA
-]
+031823
+Auto provisioning of VPN and encryption to
+private network
+a) home lan peers (over wifi and cable)
+b) home wan peers (over wifi and cable)
 
 
-Backup 2
-[
-Prebuilt - Kabul with two corridors
-Corridor to caspian
-Corridor to ocean
-I am from USA
-]
+031723
+Auto provisioning of VPN and encryption to
+public network
+a) incoming home lan connections via bridge (over wifi and cable)
+b) outgoing home wan connections via router (over wifi and cable)
 
 
-Backup 3
-[
-Based out of northern Canada
-Close to Hudson Bay
-Close to alaska
-I am from USA
-]
+031623
+VPN (virtual private network) connections for all websites and web services provided by the respective site and service.
 
 
-Car (bike/kayak) and ferry (boat/ship)
+031123
+Kids shopping areas in stores
 
 
-Start Binghamton, NY
-Dry Summer, mild winter...
+022723
+Smart locks with smart private keys (image, audio, video, instant message, file...) and connected to house grid, in retail channels.
 
 
-I am taking a bike and kayak with me. I am from the USA. You pick the car and fuel.
+022423
+Left rear scap pocket and left chest pocket on jackets for phones
 
 
-Alaska
-[
-Ottawa 20d J30
-St. Albans/Montreal 20d J10
-Albany 20d M20
-]
+022123
+Make data publicly available, maps - satellite, street....at very high precision
+
+
+022023
+Open p2p software and web clients for publicly available government data (title, deed, registration, passport, drivers license...) and services (issuances...)
+
+
+021923
+Family, couple, adult, teenager and kid sizes and prices in ice creams and everything in big box stores
+Practice independence
+Family = Breast Feeding
+Dollar, three, five dollar stores only for practicing manners
+Government companies, if private companies are not interested in serving government clients (most commonly telecom companies)
+
+
+021523
+Open Web clients for cloud email services like gmail, (hotmail 0 years),... and other web services like maps, photos, drive, amazon, (best buy 0 years)... after 20 years of product launch
+
+
+021223
+Add wifi auto roaming
+
+
+020623
+Add printing or saving in open file formats to ChromeOS and linux
+
+
+020423
+Opera custom names "quick access"
+
+
+Advertisements only stream
+Trailers only sttream
+Period 1600s, 1700s, 1800s reading only
 
 
 Primary worklist
 
 
+I am here to drive off with a car today.
 
 
-I am taking a bike and kayak with me. I am from the USA. You pick the car and fuel.
+I am taking a bike and kayak with me. I am on my way to expand and update the independent interest. I am from the USA. Approximate final destination is Pyongyang, North Korea.
+
+
+You pick the car and fuel.
 
 
 
@@ -170,16 +196,6 @@ I am taking a bike and kayak with me. I am from the USA. You pick the car and fu
 Snow removal machine
 (Nada snow blower)
 Right of way is present on all four sides of the property.
-
-
-Music List
-
-
-Proper White
-[
-Princesses don't cry, boys are running high
-Baby, I can turn you on
-]
 
 
 Cyril (C reel)
@@ -273,6 +289,76 @@ Kayak
 
 
  
+
+
+Music List
+
+
+Proper White
+[
+Princesses don't cry, boys are running high
+Baby, I can turn you on
+]
+
+
+Earth Backup
+
+
+Stipulations
+[
+99 year term ownership with early return, if able to exit to a planet
+Auto renewal for successive 99 year term(s) at a time, if unable to exit to a planet
+]
+
+
+Backup 1
+[
+Based out of Pyongyang or Kaliningrad
+Locations in Siberia and northeastern china
+I am from USA
+]
+
+
+Backup 2
+[
+Prebuilt - Kabul with two corridors
+Corridor to caspian
+Corridor to ocean
+I am from USA
+]
+
+
+Backup 3
+[
+Based out of northern Canada
+Close to Hudson Bay
+Close to alaska
+I am from USA
+]
+
+
+Car (bike/kayak) and ferry (boat/ship)
+
+
+Start Binghamton, NY
+Dry Summer, mild winter...
+
+
+I am here to drive off with a car today.
+
+
+I am taking a bike and kayak with me. I am on my way to expand and update the independent interest. I am from the USA. Approximate final destination is Pyongyang, North Korea.
+
+
+You pick the car and fuel.
+
+
+Alaska
+[
+Ottawa 20d J30
+St. Albans/Montreal 20d J10
+Albany 20d M20
+]
 
 
 Planet Commercial/Commerce
@@ -715,9 +801,13 @@ I am Irish, I am Catholic, I am Juice, I am Mormon, I am Parsi
 Shopping list
 
 
+I am here to drive off with a car today.
 
 
-I am taking a bike and kayak with me. I am from the USA. You pick the car and fuel.
+I am taking a bike and kayak with me. I am on my way to expand and update the independent interest. I am from the USA. Approximate final destination is Pyongyang, North Korea.
+
+
+You pick the car and fuel.
 
 
 
@@ -829,82 +919,6 @@ Cab company courtesy email
 
 
 
-Tertiary Worklist
-
-
-041723
-p2p πliverealnet {network, elements}
-p2p email π@liverealnet
-p2p media πωliverealnet
-
-
-031823
-Auto provisioning of VPN and encryption to
-private network
-a) home lan peers (over wifi and cable)
-b) home wan peers (over wifi and cable)
-
-
-031723
-Auto provisioning of VPN and encryption to
-public network
-a) incoming home lan connections via bridge (over wifi and cable)
-b) outgoing home wan connections via router (over wifi and cable)
-
-
-031623
-VPN (virtual private network) connections for all websites and web services provided by the respective site and service.
-
-
-031123
-Kids shopping areas in stores
-
-
-022723
-Smart locks with smart private keys (image, audio, video, instant message, file...) and connected to house grid, in retail channels.
-
-
-022423
-Left rear scap pocket and left chest pocket on jackets for phones
-
-
-022123
-Make data publicly available, maps - satellite, street....at very high precision
-
-
-022023
-Open p2p software and web clients for publicly available government data (title, deed, registration, passport, drivers license...) and services (issuances...)
-
-
-021923
-Family, couple, adult, teenager and kid sizes and prices in ice creams and everything in big box stores
-Practice independence
-Family = Breast Feeding
-Dollar, three, five dollar stores only for practicing manners
-Government companies, if private companies are not interested in serving government clients (most commonly telecom companies)
-
-
-021523
-Open Web clients for cloud email services like gmail, (hotmail 0 years),... and other web services like maps, photos, drive, amazon, (best buy 0 years)... after 20 years of product launch
-
-
-021223
-Add wifi auto roaming
-
-
-020623
-Add printing or saving in open file formats to ChromeOS and linux
-
-
-020423
-Opera custom names "quick access"
-
-
-Advertisements only stream
-Trailers only sttream
-Period 1600s, 1700s, 1800s reading only
-
-
 Seconday Worklist
 
 
@@ -918,7 +932,7 @@ Communication
 rakeshkelm@gmail.com
 smart apps: rakeshbingk@gmail.com
 p2p : git
-web: https://github.com/rakeshkelm/notes
+web: github.com/rakeshkelm/notes
 Cloud: Skype, Zoom, Teams and other
 
 
