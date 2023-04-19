@@ -10,7 +10,7 @@ Fidelity
 git real
 [
 Amy (New England) and
-Rakesh (old england -elon - southern white male)
+Rakesh (old england - elon - southern white male)
 
 
 Finance northeast
@@ -175,6 +175,11 @@ smm = source media management
 
 network, elements
 p2p, git
+scm = source code management
+
+
+
+
 ]
 
 
@@ -362,7 +367,7 @@ Backup 1
 [
 Based out of Pyongyang or Kaliningrad
 Locations in Siberia and northeastern china
-I am from USA
+I am from the USA
 ]
 
 
@@ -371,7 +376,7 @@ Backup 2
 Prebuilt - Kabul with two corridors
 Corridor to caspian
 Corridor to ocean
-I am from USA
+I am from the USA
 ]
 
 
@@ -380,7 +385,7 @@ Backup 3
 Based out of northern Canada
 Close to Hudson Bay
 Close to alaska
-I am from USA
+I am from the USA
 ]
 
 
