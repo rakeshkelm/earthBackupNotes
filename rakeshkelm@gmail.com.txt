@@ -26,8 +26,6 @@ git = idiot
 Illegal Males - Game Attire
 
 
-
-
 Proper White
 [
 Playing Conservatives game, Americans game
@@ -163,8 +161,16 @@ Tertiary Worklist
 [
 network, scale git
 p2p, πgitrealnet
+scm
 p2p, email π@gitrealnet
+sem
 p2p, media πωgitrealnet
+smm
+
+
+scm = source core management
+sem = source email management
+smm = source media management
 
 
 network, elements
