@@ -16,7 +16,7 @@ Rakesh (old england - elon - southern white male)
 Finance northeast
 Engineering west
 Car south and fuel midsouthwest
-Driver mid west
+Driver midwest
 
 
 git = idiot
@@ -164,22 +164,24 @@ p2p, πgitrealnet
 scm
 p2p, email π@gitrealnet
 sem
+p2p, notes πηgitrealnet
+snm
 p2p, media πωgitrealnet
 smm
+p2p, comm πςgitrealnet
+scm
 
 
 scm = source core management
 sem = source email management
+snm = source notes management
 smm = source media management
+scm = source comm management
 
 
 network, elements
 p2p, git
 scm = source code management
-
-
-
-
 ]
 
 
@@ -365,14 +367,16 @@ Auto renewal for successive 99 year term(s) at a time, if unable to exit to a pl
 
 Backup 1
 [
+China, Russia
+
+
+North Korea
 Based out of Pyongyang or Kaliningrad
 Locations in Siberia and northeastern china
 I am from the USA
-]
 
 
-Backup 2
-[
+Afghanistan
 Prebuilt - Kabul with two corridors
 Corridor to caspian
 Corridor to ocean
@@ -380,8 +384,12 @@ I am from the USA
 ]
 
 
-Backup 3
+Backup 2
 [
+Brazil, Argentina
+
+
+Canada
 Based out of northern Canada
 Close to Hudson Bay
 Close to alaska
@@ -398,7 +406,7 @@ Dry Summer, mild winter...
 
 Taming of the Shrew
 [
-I am here to drive off with a car today.
+I am here to drive off, with a car, today.
 
 
 I will be driving with Amy. I am also taking a bike and kayak with me. I am on my way to expand and update the independent interest. I am from the USA. Approximate final destination is Pyongyang, North Korea.
