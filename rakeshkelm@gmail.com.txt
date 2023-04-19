@@ -7,9 +7,11 @@ Fidelity
 ]
 
 
-Party in
+Party in cemetery with
 [
-Cemetery
+C reel
+Ball room dance club
+First district trailer park
 ]
 
 
@@ -138,7 +140,7 @@ Taming of the Shrew
 I am here to drive off, with a car, today.
 
 
-I will be driving with Amy. I am also taking a bike and kayak with me. I am on my way to expand and update the independent interest. I am from the USA ( I am American/English/European). Approximate final destination is Pyongyang, North Korea.
+I will be driving with Amy. I am also taking a bike and kayak with me. I am on my way to expand and update the independent interest. I am from the USA (I am American/English/European). Approximate final destination is Pyongyang, North Korea.
 
 
 You pick the car and fuel.
@@ -937,6 +939,10 @@ Today worklist
 Estonia
 Latvia
 Lithuania
+
+
+
+
 
 
 Cc gloves
