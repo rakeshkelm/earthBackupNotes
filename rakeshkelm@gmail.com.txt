@@ -33,11 +33,13 @@ Leave
 Go North first
 and ask for land
 and say I am from the USA
+and say I am American/English/European
 if, they send you back to the USA from the North
 Then
 Go South
 and ask for land
 and say I am from the USA
+and say I am American/English/European
 ]
 
 
@@ -54,8 +56,9 @@ Ball room dance club
 First district trailer park
 
 
-While outside show respect to government
+While outside
 soft labor - stand
+show respect to government
 Full Ei
 Use first name (aka Mohammed)
 shake shoulder
@@ -66,8 +69,9 @@ Ei = Establishment interest
 aka = also known as in government language
 
 
-While outside show respect to government
+While outside
 hard labor - sit
+show respect to government
 Full Ei
 Use first name (aka King)
 bump fists
