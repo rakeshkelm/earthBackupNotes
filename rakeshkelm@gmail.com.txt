@@ -90,13 +90,21 @@ Put one hand on your mouth
 then
 Put both hands on your eyes
 then
-Say thank you Sir
+Say thank you, Sir
 then
 Leave the scene
+
+
+if,
+whored and pawned
+and/or
+pawned and whored
+Lie low
+Keep it cool
 ]
 
 
-git real New England
+git is real New England
 [
 Amy (New England) and
 Rakesh (old england - elon - southern white male)
@@ -370,6 +378,7 @@ Catholic pantry cyril
  Troy
  Tom
  Barbara
+ Mike
  ]
 
 
