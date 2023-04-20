@@ -1157,7 +1157,7 @@ Exurban New York-Binghamton, NY, USA.
 Earth Backup
 p2p : git
 web : github.com/rakeshkelm/notes
-Finished Southern route (Mexico - 2021, 2022) and starting on Northern route (Alaska - May 2023).
+Finished USA route (Federal Reserve Bank - 2021), Southern route (Mexico - 2022) and starting on Northern route (Alaska - May 2023).
 
 
 
