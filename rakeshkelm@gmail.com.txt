@@ -1,4 +1,205 @@
-﻿Illegal Males - Game code
+﻿Planet Commercial/Commerce
+
+
+Private Commercial/Commerce
+[
+Financial Services
+{
+Retail
+(
+ATM bank
+)
+Commercial
+Investment
+Brokerage
+Exchange
+}
+
+
+Legal Services
+{
+}
+
+
+Engineering Services
+{
+Wave
+
+
+Electron
+Comm
+
+
+Atom
+Risc 5
+Antenna
+Drones
+Satellite
+Ka bull
+}
+
+
+]
+
+
+Planet Residence/Homestead
+
+
+Private Residence/Homestead
+[
+Utilities
+Power plant
+Micro nuclear, {wind, solar, hydro}
+Network - Composites, Fiber
+Network elements - Smart
+Comm
+Electric
+Water
+
+
+On ground
+Antenna
+In Air
+Drones
+In Orbit
+Satellite
+
+
+Food
+Asr auto. stock room
+
+
+Recreation
+Indoor and outdoor
+
+
+Medicine
+Cabinet
+
+
+Currency
+ATM bank
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's)
+
+
+
+
+Fucking
+
+
+Build and operationalize a planet
+[
+Expand Independent Interest
+Update Independent Interest
+]
+
+
+Expand Independent Interest
+[
+Build an Ii game (Focus on planets, solar system, galaxy)
+Take as many people as possible from earth to the newly built Ii game
+Build new name and expand culture
+Planet name
+Planet flag
+New name for Federal Reserve
+"Proper Federal reserve"
+Private equity, Investment, Commercial
+New name for Attorneys
+"Proper Attorney's "
+New name for Business Administrators
+"Proper Business Administrator's "
+New name for Doctors
+"Proper Doctor's"
+Operational mantra - I am American
+ (I am Male)
+ What is your "Title"? and
+ What was your "Deed"?
+ Elon
+ Prince (Erik, Alwaleed)
+]
+
+
+Update Independent Interest
+[
+Prevent double occupancy by maintaining separation (hang and maintain separation)
+Update university
+Update postal service
+]
+
+
+Existential crisis for Earth
+[
+I am American
+I am Male
+What is your "Title"? and
+What was your "Deed"?
+I am Elon
+I am Prince (Erik, Alwaleed)
+]
+
+
+Real List
+
+
+Emily
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Illegal Males - Game code
 
 
 Join
@@ -110,13 +311,24 @@ Amy (New England) and
 Rakesh (old england - elon - southern white male)
 
 
+Militia/Planetarians
+[
+Amy (New England)
+Rakesh (old england - elon - southern white male)
+Engineering west-mid
+]
+Americans
+[
 Finance northeast
-Engineering west
+]
+Conservatives
+[
 Car south and fuel midsouthwest
 Driver midwest
-
-
+]
 git = idiot
+
+
 ]
 
 
@@ -163,52 +375,6 @@ Supplies store
 Cafe
 Catholic pantry
 ]
-
-
-
-
-
-
-Real List
-
-
-Emily
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -521,161 +687,6 @@ Alaska
 Ottawa 20d J30
 St. Albans/Montreal 20d J10
 Albany 20d M20
-]
-
-
-Planet Commercial/Commerce
-
-
-Private Commercial/Commerce
-[
-Financial Services
-{
-Retail
-(
-ATM bank
-)
-Commercial
-Investment
-Brokerage
-Exchange
-}
-
-
-Legal Services
-{
-}
-
-
-Engineering Services
-{
-Wave
-
-
-Electron
-Comm
-
-
-Atom
-Risc 5
-Antenna
-Drones
-Satellite
-Ka bull
-}
-
-
-]
-
-
-Planet Residence/Homestead
-
-
-Private Residence/Homestead
-[
-Utilities
-Power plant
-Micro nuclear, {wind, solar, hydro}
-Network - Composites, Fiber
-Network elements - Smart
-Comm
-Electric
-Water
-
-
-On ground
-Antenna
-In Air
-Drones
-In Orbit
-Satellite
-
-
-Food
-Asr auto. stock room
-
-
-Recreation
-Indoor and outdoor
-
-
-Medicine
-Cabinet
-
-
-Currency
-ATM bank
-]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's)
-
-
-
-
-Fucking
-
-
-Build and operationalize a planet
-[
-Expand Independent Interest
-Update Independent Interest
-]
-
-
-Expand Independent Interest
-[
-Build an Ii game (Focus on planets, solar system, galaxy)
-Take as many people as possible from earth to the newly built Ii game
-Build new name and expand culture
-Planet name
-Planet flag
-New name for Federal Reserve
-"Proper Federal reserve"
-Private equity, Investment, Commercial
-New name for Attorneys
-"Proper Attorney's "
-New name for Business Administrators
-"Proper Business Administrator's "
-New name for Doctors
-"Proper Doctor's"
-Operational mantra - I am American
- (I am Male)
- What is your "Title"? and
- What was your "Deed"?
- Elon
- Prince (Erik, Alwaleed)
-]
-
-
-Update Independent Interest
-[
-Prevent double occupancy by maintaining separation (hang and maintain separation)
-Update university
-Update postal service
-]
-
-
-Existential crisis for Earth
-[
-I am American
-I am Male
-What is your "Title"? and
-What was your "Deed"?
-I am Elon
-I am Prince (Erik, Alwaleed)
 ]
 
 
