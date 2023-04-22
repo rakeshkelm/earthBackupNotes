@@ -1,4 +1,4 @@
-﻿Militia/Planet Commercial/Commerce
+﻿Militia - Planet Commercial/Commerce
 
 
 Private Commercial/Commerce
@@ -42,7 +42,7 @@ Ka bull
 ]
 
 
-Militia/Planet Residence/Homestead
+Militia - Planet Residence/Homestead
 
 
 Private Residence/Homestead
@@ -94,7 +94,7 @@ ATM bank
 
 
 
-Militia/Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's)
+Militia - Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's)
 
 
 
@@ -199,7 +199,7 @@ Emily
 
 
 
-Militia/Primary worklist
+Militia - Primary worklist
 
 
 Play with
@@ -216,7 +216,7 @@ I am here to drive off, with a car, today.
 I will be driving with Amy. I am also taking a bike and kayak with me. I am on my way to expand and update the independent interest. I am from the USA (I am American/English/European). Approximate final destination is Pyongyang, North Korea.
 
 
-You pick the car and fuel.
+You pick the car, fuel and service.
 ]
 
 
@@ -237,7 +237,9 @@ Snow removal machine
 Right of way is present on all four sides of the property.
 
 
-Americans/Secondary Worklist
+Communists, Socialists - Tertiary Worklist
+
+
 
 
 041723
@@ -335,11 +337,13 @@ Trailers only sttream
 Period 1600s, 1700s, 1800s reading only
 
 
-Communists/Socialists tertiary Worklist
+Secondary Worklist - Royalists
 
 
-
-
+Always
+[
+Sit idle
+]
 
 
 
@@ -378,8 +382,8 @@ Militia (become owners)
 If
 [
 Whored and Pawned
-and/or
-Pawned and whored
+or
+Pawned and/or whored
 Lie low
 Keep it cool
 ]
@@ -402,10 +406,9 @@ web
 
 git is real New England
 [
-Militia/Planetarians
-Americans/Royalists
-Communists
-Socialists
+Militia - Planetarians
+Americans - Royalists
+Conservatives- Communists, Socialists
 git = idiot
 ]
 
@@ -415,7 +418,7 @@ git = idiot
 
 
  
-Militia/Planetarians
+Militia - Planetarians
 [
 Amy (New England)
 Rakesh (old england - Elon - southern white male)
@@ -426,14 +429,16 @@ Exurban/Backcountry Port-land
 ]
 
 
-Americans
+Americans - Royalists
 [
 Finance northeast (Fidelity)
 Engineering (Page Andressen)
 Exurban/Backcountry Valley-New England
+Bandar
+Mohammed
 
 
-Communists/Socialists
+Conservatives - Communists, Socialists
 [
 Car south (Morgan Stanley)
 Fuel midsouthwest (Bank of America)
@@ -784,7 +789,7 @@ I am here to drive off, with a car, today.
 I will be driving with Amy. I am also taking a bike and kayak with me. I am on my way to expand and update the independent interest. I am from the USA (I am American/English/European). Approximate final destination is Pyongyang, North Korea.
 
 
-You pick the car and fuel.
+You pick the car, fuel and service.
 ]
 
 
@@ -796,7 +801,7 @@ Albany 20d M20
 ]
 
 
-Americans game (Ii game, opening game, White, Web, prince's)
+Americans game (Ii game, opening game, White, Web, prince's) aka Royalists
 
 
 
@@ -953,7 +958,7 @@ Sectioning (aka narrowing) is not possible on one's own private property. Everyw
 
 
 
-Conservatives game (Ei game, blocking game, substitution game, Trailer White, Cloud, Princesse's)
+Conservatives game (Ei game, blocking game, substitution game, Trailer White, Cloud, Princesse's) aka Communists, Socialists
 
 
 
@@ -1567,6 +1572,7 @@ Panera
 
 
 
+Time in minutes, after order placed
 Receipt in envelope in brown bag
 Cake in brown bag
 Towelettes in brown bag
