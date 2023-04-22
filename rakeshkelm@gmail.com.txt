@@ -425,7 +425,7 @@ Rakesh (old england - Elon - southern white male)
 Engineering west-mid (Linus)
 Erik
 Alwaleed
-Exurban/Backcountry Port-land
+Exurban/Backcountry, Port-land
 ]
 
 
@@ -433,7 +433,7 @@ Americans - Royalists
 [
 Finance northeast (Fidelity)
 Engineering (Page Andressen)
-Exurban/Backcountry Valley-New England
+Exurban/Backcountry, Valley-New England
 Bandar
 Mohammed
 
