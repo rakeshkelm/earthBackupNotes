@@ -1,4 +1,4 @@
-﻿Planet Commercial/Commerce
+﻿Militia/Planet Commercial/Commerce
 
 
 Private Commercial/Commerce
@@ -42,7 +42,7 @@ Ka bull
 ]
 
 
-Planet Residence/Homestead
+Militia/Planet Residence/Homestead
 
 
 Private Residence/Homestead
@@ -94,7 +94,7 @@ ATM bank
 
 
 
-Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's)
+Militia/Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's)
 
 
 
@@ -199,7 +199,7 @@ Emily
 
 
 
-Primary worklist
+Militia/Primary worklist
 
 
 Play with
@@ -237,7 +237,7 @@ Snow removal machine
 Right of way is present on all four sides of the property.
 
 
-Tertiary Worklist
+Americans/Secondary Worklist
 
 
 041723
@@ -333,6 +333,37 @@ Opera custom names "quick access"
 Advertisements only stream
 Trailers only sttream
 Period 1600s, 1700s, 1800s reading only
+
+
+Communists/Socialists tertiary Worklist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Illegal Males - Game code
@@ -493,11 +524,11 @@ While outside
 hard labor - sit
 show respect to government
 Full Ei
-Use first name (aka king Mohammed)
-bump fists
+Use king (aka prince Mohammed)
+shake fists
 Partial Ei
-use president (aka president Joe)
-bump wrists
+use president (aka hey Joe)
+shake wrists
 Ei = Establishment interest
 aka = also known as in government language
 
@@ -517,6 +548,7 @@ Leave the scene
 
 Stupids will always
 Outnumber the smarts
+Trailer white royalist
 Black white royalist
 Chipotle white royalist
 Brown white socialist
