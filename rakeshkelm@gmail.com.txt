@@ -340,8 +340,76 @@ Illegal Males - Game code
 
 Join
 [
-Militia
+Militia (become owners)
 ]
+
+
+If
+[
+Whored and Pawned
+and/or
+Pawned and whored
+Lie low
+Keep it cool
+]
+
+
+Decrease and/or Stop the
+[
+Whoring and/or Pawning or
+Music (becoming renters and/or drivers)
+]
+
+
+Use Smart device
+[
+Camera
+p2p
+web
+]
+
+
+git is real New England
+[
+Militia/Planetarians
+Americans/Royalists
+Communists
+Socialists
+git = idiot
+]
+ 
+Militia/Planetarians
+[
+Amy (New England)
+Rakesh (old england - Elon - southern white male)
+Engineering west-mid (Linus)
+Erik
+Alwaleed
+Exurban/Backcountry Port-land
+]
+
+
+Americans
+[
+Finance northeast (Fidelity)
+Boston
+
+
+Communists/Socialists
+[
+Car south (Morgan Stanley)
+Fuel midsouthwest (Bank of America)
+Driver midwest (Santander)
+New York, San Francisco, Chicago
+]
+
+
+
+
+
+
+
+
 
 
 Lie low
@@ -378,6 +446,14 @@ and ask for land
 and say I am from the USA
 and say I am American/English/European
 ]
+
+
+
+
+
+
+
+
 
 
 While you are working on the above
@@ -432,14 +508,6 @@ then
 Leave the scene
 
 
-if,
-whored and pawned
-and/or
-pawned and whored
-Lie low
-Keep it cool
-
-
 Stupids will always
 Outnumber the smarts
 Black white royalist
@@ -460,33 +528,8 @@ Keep it cool
 ]
 
 
-git is real New England
-[
-Militia/Planetarians
-[
-Amy (New England)
-Rakesh (old england - Elon - southern white male)
-Engineering west-mid (Linus)
-Exurban/Backcountry Port-land
-]
 
 
-Americans
-[
-Finance northeast (Fidelity)
-Boston
-]
-
-
-Conservatives
-[
-Car south (Morgan Stanley)
-Fuel midsouthwest (Bank of America)
-Driver midwest (Santander)
-New York, San Francisco, Chicago
-]
-git = idiot
-]
 
 
 
@@ -496,7 +539,7 @@ Illegal Males - Game Attire
 
 Proper White
 [
-Playing Conservatives game, Americans game
+Playing Conservatives-Socialists/ Communists game, Americans-Royalists game
 {
 Wear a Skirt and a top/Blouse
 Ask for Name and Chocolate/candy from girls
@@ -510,8 +553,9 @@ aka = also known as
 ]
 
 
-Conservatives game = Breaking law/process on own
+Conservatives-Socialists/ Communists game = Breaking law/process on own
 [
+Becoming renters aka drivers
 Living in the USA
 Flight attendant ft
 Waiter ft
@@ -523,8 +567,9 @@ ft = full time
 ]
 
 
-Americans game = Breaking law/process on force
+Americans game-Royalists = Breaking law/process on force
 [
+Becoming renters aka drivers
 Living in the USA
 Public transit
 Grocery store
@@ -566,6 +611,7 @@ Catholic pantry cyril
  Tom
  Barbara
  Mike
+ Sally
  ]
 
 
