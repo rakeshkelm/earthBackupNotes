@@ -373,9 +373,10 @@ Sit idle
 Illegal Males - Game code
 
 
-Running live or Running underground
+Running live (outside) or Running underground (inside)
 [
 outcomes are same
+(you will be in prison-real or prison - gender)
 ]
 
 
@@ -1123,6 +1124,12 @@ Broome county is a Chinese market
 About 25% of Broome county is legal
 (Needs to be close to zero. Unacceptable!).
 ]
+
+
+
+
+
+
 
 
 Americans in miniscule numbers
