@@ -436,6 +436,13 @@ Keep it cool
 ]
 
 
+Folk-land
+[
+u-r-guy
+par-r-guy
+]
+
+
 
 
 
@@ -635,6 +642,13 @@ Wear a Jacket (aka purse)
 Ask for Name and Chocolate/candy from girls
 }
 aka = also known as
+]
+
+
+Folk-land
+[
+u-r-guy
+par-r-guy
 ]
 
 
