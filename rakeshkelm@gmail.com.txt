@@ -373,6 +373,12 @@ Sit idle
 Illegal Males - Game code
 
 
+Running live or Running underground
+[
+outcomes are same
+]
+
+
 Join
 [
 Militia (become owners)
@@ -403,6 +409,10 @@ Camera
 p2p
 web
 ]
+
+
+
+
 
 
 Running live or Running on video
