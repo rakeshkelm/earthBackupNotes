@@ -381,9 +381,10 @@ Militia (become owners)
 
 If
 [
-Whored and Pawned
+Whored and Pawned (aka 2)
 or
-Pawned and/or whored
+Pawned and/or whored (aka 2)
+{aka 2x2}
 Suck it up
 Keep it cool
 ]
@@ -402,6 +403,31 @@ Camera
 p2p
 web
 ]
+
+
+Running live or Running on video
+[
+Suck it up
+Keep it cool
+]
+
+
+Backurban, Urban
+[
+Suck it up
+Keep it cool
+]
+
+
+Excountry, Country
+[
+Suck it up
+Keep it cool
+]
+
+
+
+
 
 
 git is real New England
@@ -1037,9 +1063,22 @@ Keep people above 65 and 55 (as close to 95 as possible = run them high)
 Keep females in leadership above 50 (as close to males as possible = run them high)
 ]
  
-Create and maintain sections
+Create and maintain sections (aka 2x2)
 [
-Males in miniscule numbers (Americans- Northern males - Proper White, closest English/Welsh Americans, Scandinavian Americans)
+Keep Males in miniscule numbers
+
+
+English Americans
+English/English, English/Welsh
+Scandinavian Americans
+Swedish/Swedish, Finnish/Danish
+]
+
+
+Create and maintain sections (aka 2x2)
+[
+Keep Americans in miniscule numbers
+Americans- Northern males - Proper White, closest English/Welsh Americans, Finnish/Danish Americans
 
 
 Run females (white, trailer white) higher than males (proper white)
