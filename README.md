@@ -3,6 +3,7 @@ Notes from accounts
 
 rakeshkelm@gmail.com
 Actively updated.
+
 Build and Operationalize a Planet.
 Expand and Update Independent Interest.
 Earth Backup.
