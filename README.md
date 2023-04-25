@@ -2,9 +2,13 @@
 Notes from accounts
 
 rakeshkelm@gmail.com
-Actively updated 
+
+Actively updated.
+
 Expand and Update Independent Interest.
+
 Planet.
+
 Earth Backup.
 
 homesecbing@gmail.com
