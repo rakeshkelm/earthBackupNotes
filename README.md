@@ -5,9 +5,9 @@ rakeshkelm@gmail.com
 
 Actively updated.
 
-Expand and Update Independent Interest.
+Build and Operationalize a Planet.
 
-Planet.
+Expand and Update Independent Interest.
 
 Earth Backup.
 
