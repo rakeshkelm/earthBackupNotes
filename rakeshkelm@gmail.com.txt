@@ -396,7 +396,8 @@ aka you will become prisoners
 
 Join
 [
-Militia (become owners)
+Militia
+become owners
 ]
 
 
@@ -495,7 +496,8 @@ Conservatives - Communists, Socialists
 Car south (Morgan Stanley)
 Fuel midsouthwest (Bank of America)
 Driver midwest (Santander)
-New York, San Francisco, Chicago
+Service (Toronto Dominion, Bank North)
+New York, San Francisco, Chicago, Toronto, Scandinavia
 ]
 
 
@@ -581,7 +583,7 @@ While outside
 hard labor - sit
 show respect to government
 Full Ei
-Use prince (aka king Mohammed)
+Use king (aka king Mohammed)
 shake fists
 Partial Ei
 use hey (aka president Joe)
@@ -608,8 +610,8 @@ Outnumber the smarts
 Trailer white royalist
 Black white royalist
 Chipotle white royalist
-Brown white socialist
 Yellow white communist
+Brown white socialist
 Suck it up
 Keep it cool
 
