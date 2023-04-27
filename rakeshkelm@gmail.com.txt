@@ -1284,10 +1284,10 @@ Rakesh Kukatla - Militia
 
 Communication
 rakeshkelm@gmail.com
-smart apps: rakeshbingk@gmail.com
 p2p : git rakeshkelm
-web: github.com/rakeshkelm/notes
-Cloud: Skype, Zoom, Teams and other
+web : github.com/rakeshkelm
+smart apps : rakeshbingk@gmail.com
+Cloud : Skype, Zoom, Teams and other
 
 
 Cottage
@@ -1545,9 +1545,9 @@ Profile - Militia
 
 Rakesh Kukatla
 rakeshkelm@gmail.com
-smart apps : rakeshbingk@gmail.com
 p2p : git rakeshkelm
 web : github.com/rakeshkelm
+smart apps : rakeshbingk@gmail.com
 Cloud : Skype, Zoom, Teams and other
 7 Elm Street
 Exurban New York-Binghamton, NY, USA.
