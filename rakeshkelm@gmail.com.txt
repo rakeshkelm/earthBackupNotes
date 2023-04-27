@@ -115,6 +115,7 @@ web : github.com/rakeshkelm
 Play with
 [
 Fidelity
+Rakesh Kukatla
 ]
 
 
@@ -1550,7 +1551,7 @@ p2p : git rakeshkelm
 web : github.com/rakeshkelm
 smart apps : rakeshbingk@gmail.com
 Cloud : Skype, Zoom, Teams and other
-7 Elm Street
+7 Elm Street, Independent interest and Militia
 Exurban New York-Binghamton, NY, USA.
 
 
