@@ -1,18 +1,18 @@
-﻿Individual - Militia
+﻿Individual - Independent interest and Militia
 
 
 p2p : git rakeshkelm
 web : github.com/rakeshkelm
 
 
-Planet Reserve bank - Militia
+Planet Reserve bank - Independent interest and Militia
 
 
 p2p : git rakeshkelm
 web : github.com/rakeshkelm
 
 
-Music List - Militia
+Music List - Independent interest and Militia
 
 
 p2p : git rakeshkelm
@@ -46,7 +46,7 @@ Chilean Spanish
 ]
 
 
-Ideas - Militia
+Ideas - Independent interest and Militia
 
 
 p2p : git rakeshkelm
@@ -55,7 +55,7 @@ web : github.com/rakeshkelm
 
 ideas
 {
-from independent interest
+from independent interest and militia
 Rakesh Kukatla
 ]
 
@@ -95,6 +95,7 @@ check out, notes
 if, interested
 [
 check out, profile
+Rakesh Kukatla
 ]
 
 
@@ -104,7 +105,7 @@ check out, profile
 
 
 
-Primary worklist - Militia
+Primary worklist - Independent interest and Militia
 
 
 p2p : git rakeshkelm
@@ -146,7 +147,7 @@ Snow removal machine
 Right of way is present on all four sides of the property.
 
 
-Planet Commercial/Commerce - Militia
+Planet Commercial/Commerce - Independent interest and Militia
 
 
 
@@ -196,7 +197,7 @@ Ka bull
 ]
 
 
-Planet Residence/Homestead - Militia
+Planet Residence/Homestead - Independent interest and Militia
 
 
 
@@ -254,7 +255,7 @@ ATM bank
 
 
 
-Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's) - Militia
+Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's) - Independent interest and Militia
 
 
 
@@ -317,7 +318,7 @@ I am Prince (Erik, Alwaleed)
 ]
 
 
-Real List - Militia
+Real List - Independent interest and Militia
 
 
 p2p : git rakeshkelm
@@ -367,7 +368,7 @@ Emily
 
 
 
-Socializing - Militia
+Socializing - Independent interest and Militia
 
 
 p2p : git rakeshkelm
@@ -418,7 +419,7 @@ T = Trailer White
 
 
 
-Cyril (C reel) - Militia
+Cyril (C reel) - Independent interest and Militia
 
 
 p2p : git rakeshkelm
@@ -517,7 +518,7 @@ Kayak
  
 
 
-Earth Backup - Militia
+Earth Backup - Independent interest and Militia
 
 
 p2p : git rakeshkelm
@@ -598,7 +599,7 @@ Albany 20d M20
 ]
 
 
-Shopping list - Militia
+Shopping list - Independent interest and Militia
 
 
 p2p : git rakeshkelm
@@ -1279,7 +1280,7 @@ Sectioning (aka narrowing) is not possible on one's own private property. Everyw
 
 
 
-Rakesh Kukatla - Militia
+Rakesh Kukatla - Independent interest and Militia
 
 
 Communication
@@ -1303,7 +1304,7 @@ BINGHAMTON, NY 13905
 
 
 
-Today worklist - Militia
+Today worklist - Independent interest and Militia
 
 
 p2p : git rakeshkelm
@@ -1540,7 +1541,7 @@ I am Irish, I am Catholic, I am Juice, I am Mormon, I am Parsi
  
 
 
-Profile - Militia
+Profile - Independent interest and Militia
 
 
 Rakesh Kukatla
@@ -1647,7 +1648,7 @@ Master of Science, M.S, 1999
 Georgia State University, Atlanta, GA, USA
 
 
-Food - Militia
+Food - Independent interest and Militia
 
 
 p2p : git rakeshkelm
@@ -1663,14 +1664,14 @@ Maple tree apple farm orchard
 Supplies
 
 
-Scrap - Militia
+Scrap - Independent interest and Militia
 
 
 p2p : git rakeshkelm
 web : github.com/rakeshkelm
 
 
-Holiday Calendar - Militia
+Holiday Calendar - Independent interest and Militia
 
 
 p2p : git rakeshkelm
