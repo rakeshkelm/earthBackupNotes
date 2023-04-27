@@ -986,7 +986,7 @@ Fidelity
 
 
 Take camerashot
-of running girl(s)
+of run(ning) girl(s)
 back facade
 
 
@@ -1284,6 +1284,8 @@ Sectioning (aka narrowing) is not possible on one's own private property. Everyw
 Rakesh Kukatla - Independent interest and Militia
 
 
+
+
 Communication
 rakeshkelm@gmail.com
 p2p : git rakeshkelm
@@ -1293,8 +1295,10 @@ Cloud : Skype, Zoom, Teams and other
 
 
 Cottage
-7 ELM ST
-BINGHAMTON, NY 13905
+7 Elm St., Independent interest and Militia
+Exurban NY - Binghamton, NY. 13905. USA.
+
+
 
 
 
@@ -1551,8 +1555,8 @@ p2p : git rakeshkelm
 web : github.com/rakeshkelm
 smart apps : rakeshbingk@gmail.com
 Cloud : Skype, Zoom, Teams and other
-7 Elm Street, Independent interest and Militia
-Exurban New York-Binghamton, NY, USA.
+7 Elm St., Independent interest and Militia
+Exurban New York-Binghamton, NY. 13905. USA.
 
 
 About
