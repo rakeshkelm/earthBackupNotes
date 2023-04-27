@@ -56,6 +56,7 @@ web : github.com/rakeshkelm
 ideas
 {
 from independent interest
+Rakesh Kukatla
 ]
 
 
@@ -1034,7 +1035,7 @@ Americans game (Ii game, opening game, White, Web, prince's) aka Royalists
 
 
 
-web : usa.saudi.gov
+web : usa.saudi.royalist
 
 
 Loosing
@@ -1194,7 +1195,7 @@ Conservatives game (Ei game, blocking game, substitution game, Trailer White, Cl
 
 
 
-web : usa.saudi.gov
+web : usa.saudi.royalist
 
 
 Winning
