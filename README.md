@@ -1,6 +1,8 @@
 # notes
 Notes from accounts - Independent interest and Militia, Earth Backup
 
+https://earthbackup.planet.militia
+
 rakeshkelm@gmail.com.txt
 Actively updated.
 
