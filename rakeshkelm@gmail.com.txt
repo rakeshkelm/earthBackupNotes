@@ -1,22 +1,29 @@
 ﻿Militia - Planet Reserve bank
 
 
-
-
+p2p : git (rakeshkelm)
+web : github.com/rakeshkelm
 
 
 Ideas
 
 
+p2p : git (rakeshkelm)
+web : github.com/rakeshkelm
+
+
 from independent
 [
 interest
+check out, pub
 ]
 
 
 for
 [
 any individual, any where
+check out, fedGov
+check out, BroomeGov
 ]
 
 
@@ -31,6 +38,7 @@ county and state government(s), USA
 outlined and explained in
 [
 notes
+check out, notes
 ]
 
 
@@ -46,7 +54,7 @@ check out, profile
 
 
 
-Militia - Primary worklist
+Primary worklist - Militia
 
 
 Play with
@@ -89,6 +97,7 @@ Militia - Planet Commercial/Commerce
 
 
 
+p2p : git (rakeshkelm)
 web : github.com/rakeshkelm/notes
 
 
@@ -138,6 +147,7 @@ Militia - Planet Residence/Homestead
 
 
 
+p2p : git (rakeshkelm)
 web : github.com/rakeshkelm/notes
 
 
@@ -195,6 +205,7 @@ Militia - Planetarians game (Ii game, new game, Proper White, peer to peer, citi
 
 
 
+p2p : git (rakeshkelm)
 web : github.com/rakeshkelm/notes
 
 
@@ -1447,7 +1458,7 @@ RAKESH KUKATLA
 Communication
 rakeshkelm@gmail.com
 smart apps: rakeshbingk@gmail.com
-p2p : git
+p2p : git (rakeshkelm)
 web: github.com/rakeshkelm/notes
 Cloud: Skype, Zoom, Teams and other
 
@@ -1471,7 +1482,7 @@ Profile
 Rakesh Kukatla
 rakeshkelm@gmail.com
 smart apps : rakeshbingk@gmail.com
-p2p : git
+p2p : git (rakeshkelm)
 web : github.com/rakeshkelm/notes
 Cloud : Skype, Zoom, Teams and other
 7 Elm Street
@@ -1488,7 +1499,7 @@ Rakesh Kukatla
 Nov 2021 - present
 Exurban New York-Binghamton, NY, USA.
 Earth Backup
-p2p : git
+p2p : git (rakeshkelm)
 web : github.com/rakeshkelm/notes
 Finished USA route (Federal Reserve Bank - 2021), Southern route (Mexico - 2022) and starting on Northern route (Alaska - May 2023).
 
