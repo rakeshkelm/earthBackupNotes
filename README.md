@@ -1,5 +1,5 @@
 # notes
-Notes from accounts - Militia
+Notes from accounts - Independent interest and Militia
 
 rakeshkelm@gmail.com.txt
 Actively updated.
