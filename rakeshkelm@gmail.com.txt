@@ -15,14 +15,29 @@ web : github.com/rakeshkelm
 Music List - Independent interest and Militia
 
 
+
+
 p2p : git rakeshkelm
 web : github.com/rakeshkelm
 
 
-Proper White
+
+
+Independent interest and Miliia
 [
+Proper White - ?
 White - Princesses don't cry, boys are running high
 Trailer White - Baby, I can turn you on
+]
+
+
+Keep re-recording in
+[
+?
+?
+?
+?
+?
 ]
 
 
@@ -49,6 +64,8 @@ Chilean Spanish
 Ideas - Independent interest and Militia
 
 
+
+
 p2p : git rakeshkelm
 web : github.com/rakeshkelm
 
@@ -57,13 +74,7 @@ ideas
 {
 from independent interest and militia
 Rakesh Kukatla
-]
-
-
-for
-[
-any communist, any socialist, any royalist
-check out, pub
+check out, profile
 ]
 
 
@@ -77,10 +88,11 @@ check out, BroomeGov
 
 for
 [
+any communist, any socialist, any royalist,
 any government, any where
 federal government, USA
-county and state government(s), USA
 check out, fedGov
+county and state government(s), USA
 check out, broomeGov
 ]
 
@@ -92,10 +104,11 @@ check out, notes
 ]
 
 
-if, interested
+if still, interested
 [
-check out, profile
+in independent interest and militia
 Rakesh Kukatla
+check out, profile
 ]
 
 
@@ -436,6 +449,7 @@ Doug 25 Franklin
 Devin Conklin cyril
 Dominic Russell cyril
 Shyanne cyril
+Brandy cyril
 ]
 
 
@@ -1569,7 +1583,7 @@ Rakesh Kukatla
 Nov 2021 - present
 Exurban New York-Binghamton, NY, USA.
 Earth Backup
-p2p : git (rakeshkelm)
+p2p : git rakeshkelm
 web : github.com/rakeshkelm/notes
 Finished USA route (Federal Reserve Bank - 2021), Southern route (Mexico - 2022) and starting on Northern route (Alaska - May 2023).
 
