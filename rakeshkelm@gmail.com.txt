@@ -64,8 +64,6 @@ Chilean Spanish
 Ideas - Independent interest and Militia
 
 
-
-
 p2p : git rakeshkelm
 web : github.com/rakeshkelm
 
@@ -104,7 +102,7 @@ check out, notes
 ]
 
 
-if still, interested
+if, still interested
 [
 in independent interest and militia
 Rakesh Kukatla
@@ -450,6 +448,7 @@ Devin Conklin cyril
 Dominic Russell cyril
 Shyanne cyril
 Brandy cyril
+Grace Cyril
 ]
 
 
@@ -685,6 +684,15 @@ Tertiary Worklist - Communists, Socialists
 
 
 
+web : usa.saudi.royalist
+
+
+042923
+[
+Load chromiumOS on smart device
+]
+
+
 042423
 [
 Mount Linux file system on chromeOS and chromiumOS
@@ -789,6 +797,9 @@ Period 1600s, 1700s, 1800s reading only
 Secondary Worklist - Royalists
 
 
+web : usa.saudi.royalist
+
+
 Always
 [
 Sit idle
@@ -820,6 +831,9 @@ Sit idle
 
 
 Illegal Males - Game code
+
+
+web : usa.saudi.royalist
 
 
 Running live (outside) or Running underground (inside)
@@ -1080,6 +1094,9 @@ Keep it cool
 Illegal Males - Game Attire
 
 
+web : usa.saudi.royalist
+
+
 Proper White
 [
 Playing Conservatives-Socialists/ Communists game, Americans-Royalists game
@@ -1326,6 +1343,8 @@ Exurban NY - Binghamton, NY. 13905. USA.
 Today worklist - Independent interest and Militia
 
 
+
+
 p2p : git rakeshkelm
 web : github.com/rakeshkelm
 
@@ -1337,6 +1356,7 @@ Lithuania
 
 Joey
 Dave, Ben and Tyler
+Wendy
 
 
 Cc gloves
@@ -1344,8 +1364,6 @@ Phone bk, lowes
 
 
 Joey
-
-
 Dave, Ben and Tyler hvac
 Taxes e-file, print
 Stop by Serafini transport
