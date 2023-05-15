@@ -2,7 +2,7 @@
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Planet Reserve bank - Independent interest and Militia
@@ -11,7 +11,7 @@ Planet Reserve bank - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Reserve bank
@@ -28,7 +28,7 @@ Music List - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 
@@ -75,7 +75,7 @@ Ideas - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 ideas
@@ -130,7 +130,7 @@ Primary worklist - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Play with
@@ -175,7 +175,7 @@ Planet Commercial/Commerce - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Private Commercial/Commerce
@@ -225,7 +225,7 @@ Planet Residence/Homestead - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Private Residence/Homestead
@@ -283,7 +283,7 @@ Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's) - I
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Sucking
@@ -344,7 +344,7 @@ Real List - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Emily
@@ -394,7 +394,7 @@ Socializing - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Dancing Dating Dinner
@@ -445,7 +445,7 @@ Cyril (C reel) - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 C reel
@@ -547,7 +547,7 @@ Earth Backup - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Stipulations
@@ -628,7 +628,7 @@ Shopping list - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Taming of the Shrew
@@ -695,7 +695,8 @@ Tertiary Worklist - Communists, Socialists
 
 
 
-web : usa.saudi.royalist
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 042923
@@ -808,7 +809,8 @@ Period 1600s, 1700s, 1800s reading only
 Secondary Worklist - Royalists
 
 
-web : usa.saudi.royalist
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Always
@@ -844,7 +846,8 @@ Sit idle
 Illegal Males - Game code
 
 
-web : usa.saudi.royalist
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Running live (outside) or Running underground (inside)
@@ -1057,10 +1060,10 @@ hard labor - sit
 show respect to government
 Full Ei
 Use king (aka king Mohammed)
-shake fists
+shake wrists
 Partial Ei
 use hey/hi (aka hi Joe)
-shake wrists
+shake fists
 Ei = Establishment interest
 aka = also known as in government language
 
@@ -1107,8 +1110,8 @@ Suck it up
 Keep it cool
 
 
-Who started the cloud business, first?
-Amazon
+Who started the cloud business, first? and where?
+Amazon, downtown Seattle
 Who started the smart phone app business,
 first?
 Apple
@@ -1126,7 +1129,8 @@ Keep it cool
 Illegal Males - Game Attire
 
 
-web : usa.saudi.royalist
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Proper White
@@ -1189,7 +1193,8 @@ Americans game (Ii game, opening game, White, Web, prince's) aka Royalists
 
 
 
-web : usa.saudi.royalist
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Loosing
@@ -1352,7 +1357,7 @@ Rakesh Kukatla - Independent interest and Militia
 Communication
 rakeshkelm@gmail.com
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 smart apps : rakeshbingk@gmail.com
 Cloud : Skype, Zoom, Teams and other
 
@@ -1378,7 +1383,7 @@ Today worklist - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Estonia
@@ -1449,9 +1454,8 @@ Cab company courtesy email
 Conservatives game (Ei game, blocking game, substitution game, Trailer White, Cloud, Princesse's) aka Communists, Socialists
 
 
-
-
-web : usa.saudi.royalist
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Winning
@@ -1620,7 +1624,7 @@ Profile - Independent interest and Militia
 Rakesh Kukatla
 rakeshkelm@gmail.com
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 smart apps : rakeshbingk@gmail.com
 Cloud apps : Skype, Zoom, Teams and other
 7 Elm St., Independent interest and Militia
@@ -1638,8 +1642,8 @@ Nov 2021 - present
 Exurban New York-Binghamton, NY, USA.
 Earth Backup
 p2p : git rakeshkelm
-web : github.com/rakeshkelm/notes
-Finished USA route (Federal Reserve Bank - 2021), Southern route (Mexico - 2022) and starting on Northern route (Alaska - May 2023).
+web : github.usa.saudiroyalist/rakeshkelm
+Finished USA route (Federal Reserve Bank - 2021), Southern route (Mexico - 2022) and starting on Northern route (Alaska - May 2023)
 
 
 
@@ -1725,7 +1729,7 @@ Food - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Animal ranch
@@ -1741,10 +1745,14 @@ Scrap - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 rakeshkelm - Visual Media
+
+
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 go to
@@ -1785,7 +1793,7 @@ Holiday Calendar - Independent interest and Militia
 
 
 p2p : git rakeshkelm
-web : github.com/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 January
