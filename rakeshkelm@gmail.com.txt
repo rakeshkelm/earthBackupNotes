@@ -1286,7 +1286,8 @@ Proper White
 [
 Playing Conservatives-Socialists/ Communists game, Americans-Royalists game
 {
-use high english
+Use high English
+Speak high English
 
 
 Wear a Skirt and a top/Blouse
