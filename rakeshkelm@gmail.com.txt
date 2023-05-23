@@ -525,6 +525,7 @@ Water - Clean water
 Filter
 Full body armor - scratch/dent free body
 Parchment and foil - clean cooking
+Gasoline and motor oil - clean yard
 Cutlery and Napkins - clean eating
 Razor and cream - clean face
 Laundry and detergent - clean clothes
@@ -550,6 +551,8 @@ Water filter
 Water
 Parchment
 foil
+Gasoline
+Motor oil
 Drinking Glasses
 Cutlery
 Razors
@@ -1560,7 +1563,7 @@ Medicine, Biotech
 
 
 Americans - New York (idiots)
-Bankers, Investment bankers
+Ban-king, Investment Ban-king
 
 
 English - England (stupids)
