@@ -24,18 +24,22 @@ Maintain land, let buildings age and die
 Build new districts
 [
 Maintain law and process
+(Maintain Land and Buildings)
 ]
 
 
-Government companies
+Create Government (aka public) companies
 [
-if private companies are not interested in serving government clients (most commonly telecom companies)
+if, private companies are not interested in serving government clients (most commonly telecom companies)
 ]
 -----}
 
 
 Practice manners
 [
+Spaces
+Public, Private
+Products
 Dollar, three, five dollar stores
 ]
 
@@ -56,6 +60,35 @@ Reserve bank
 [
 Individual accounts
 ]
+
+
+Market interventions
+[
+if, required
+Pre-declared date
+Pre-declared time
+nano seconds or higher precision
+everyone has equal opportunity to take a long or short position
+all positons (seller, buyer) published and open to everyone, in real time
+]
+
+
+Float, derivatives
+[
+Running totals (aka float), to date, permitted on market, only (nada swaps)
+Replacement totals (aka float), to date, permitted on market, only (nada swaps)
+New issues (aka derivatives), permitted on market, only
+Replacement issues (aka derivatives), permitted on market, only
+Pre-declared date
+Pre-declared time
+nano seconds or higher precision
+everyone has equal opportunity to take a long or short position
+all positons (seller, buyer) published and open to everyone, in real time
+]
+
+
+
+
 
 
 
@@ -530,7 +563,7 @@ Haley, Rodney
 ]
 
 
-John Putano HolyfatherPastorPriest clinton
+John Putano, Barbara HolyfatherPastorPriest clinton
 [
 James ss Kimberly Seane Brandon front
 Harold Will rm cyril
