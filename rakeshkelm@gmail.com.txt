@@ -599,6 +599,7 @@ Dairy, Meat, Chocolate, Sugar, Syrup - clean food
 Water - Clean water
 Filter
 Full body armor - scratch/dent free body
+Disposable plates, glasses, bowls
 Parchment and foil - clean cooking
 Gasoline and motor oil - clean yard
 Cutlery and Napkins - clean eating
@@ -1838,13 +1839,21 @@ Operational mantra - I am scared
 Keep and propagate Royalists (aka orthodox).
 [
 Keep it to Community owned (aka Socialist owned) to Communist owned to take down the communists to take down the home game (Independently owned) at home and abroad.
-Pump money
-Pump confidence
+Pump money and/or
+Pump confidence and/or
 Pump time
-Feed Americans 50/50 to one side (aka orthodox)
+Feed Americans, 50/50, to one side (aka orthodox)
 {
 Religions 50
 Unions, workers, ghetto 50
+}
+Ghetto
+{
+Trailer park
+Slavik skol (aka little)
+China town
+Spanish barrio
+Slave village
 }
 ]
 
@@ -1952,9 +1961,9 @@ Americans in miniscule numbers
 "Americans"
 Americans aka Americans plus southerns (
 American trailer, English/Scandinavian Americans)
-"Northeners"
+"Northerners"
 English/Scandinavian Americans aka "northerners" plus southerns (English American trailer, Scan American trailer, Scots, Welsh, Irish, French, Spanish, italians, portuguese, Greeks, Poles, czechoslovaks, yugoslavs, ukrainians, Blacks, Hispanics, Latinos, Mexicans)
-"Southeners"
+"Southerners"
 English/British aka "Southerners" plus southerns (English/British Trailer, Scots, Welsh, Irish, Canadians, Australians, new Zealanders)
 "Northens"
 Scandinavians aka "northens" plus southerns (Scan trailer, Dutch, Belgians, w germans, swiss, austrians)
@@ -2214,7 +2223,7 @@ Pickup old refrigerator
 
 052423 wed
 Was provided with store manager's card (Clinton Stratton)
-After, a long forced-acrimonius conversation at appliance service desk
+After, a long, forced-acrimonius conversation at appliance service desk
 
 
 Seconday Worklist
