@@ -1,5 +1,5 @@
 # notes
-Notes from accounts - Independent interest and Militia, Earth Backup (Sucking)
+Notes from accounts - Independent interest and Militia, Earth Backup (Suc-king)
 
 https://earthbackup.planet.militia
 
