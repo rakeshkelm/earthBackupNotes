@@ -297,6 +297,7 @@ Atom
 Risc 5
 Antenna
 Drones
+Micro nuclear
 Galaxyships (aka life support systems)
 Satellite
 Ka bull
@@ -1645,19 +1646,19 @@ web : github.usa.saudiroyalist/rakeshkelm
 
 
 Anericans - New England (fools)
-Medicine, Biotech
+Medicine, Biotech (aka tourism)
 
 
 Americans - New York (idiots)
-Ban-king, In-vest-ment Ban-king
+Ban-king, In-vest-ment Ban-king (aka suc-king)
 
 
 Americans - Texas (cowgirls)
-Energy, New energy
+Energy, New energy (aka native-wind)
 
 
 Americans - West (westerns aka blindeyes)
-Engineering, New Engineering
+Engineering, New Engineering (aka shady- crypto)
 
 
 Americans - Rest (?militia? ?mom?)
@@ -1666,8 +1667,8 @@ Americans - Rest (?militia? ?mom?)
 
 
 Special Note:
-Americans - Southerners (aka lost)
-Delivery, New Delivery
+Americans - Southerners (princesses)
+Delivery, New Delivery (aka lost)
 
 
 English - England (stupids)
@@ -1847,7 +1848,7 @@ Feed Americans, 50/50, to one side (aka orthodox)
 Religions 50
 Unions, workers, ghetto 50
 }
-Ghetto
+Ghetto/slave/fully woundup
 {
 Trailer park
 Slavik skol (aka little)
@@ -2212,6 +2213,11 @@ November
 General Election/Stupids Day
 December
 Christ/Christmas Day
+
+
+* K
+* 
+
 
 
 Home depot
