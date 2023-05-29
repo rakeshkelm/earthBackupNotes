@@ -3,6 +3,8 @@ Notes from accounts - Independent interest and Militia, Earth Backup (Sucking)
 
 https://earthbackup.planet.militia
 
+Individual.txt
+Actively updated.
 rakeshkelm@gmail.com.txt
 Actively updated.
 
