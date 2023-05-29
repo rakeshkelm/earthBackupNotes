@@ -4,18 +4,18 @@ Notes from accounts - Independent interest and Militia, Earth Backup (Sucking)
 https://earthbackup.planet.militia
 
 Individual.txt
-Actively updated.
+(Actively updated)
 
 rakeshkelm@gmail.com.txt
-Actively updated.
+(Actively updated)
 
 Build and Operationalize a Planet.
 Expand and Update Independent Interest.
 
 homesecbing@gmail.com.txt
-Archived
+(Archived)
 
 rakeshbingk@gmail.com.txt
-Archived
+(Archived)
 
 Check out, above files in this folder.
