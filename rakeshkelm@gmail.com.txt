@@ -20,6 +20,14 @@ Improvement
 ]
 
 
+p2p
+[
+identity, open identity (nada centralized id)
+elections, open voting (nada secret ballot)
+p2p = peer to peer
+]
+
+
 Sizes
 [
 Family, couple, adult, teenager and kid sizes and prices in ice creams and everything in big box stores
@@ -411,6 +419,12 @@ Expand Independent Interest
 Build an Ii game (Focus on planets, solar system, galaxy)
 Take as many people as possible from earth to the newly built Ii game
 Build new name and expand culture
+p2p
+[
+identity, open identity (nada centralized id)
+elections, open voting (nada secret ballot)
+p2p = peer to peer
+]
 Planet name
 Planet flag
 New name for Federal Reserve
@@ -428,6 +442,10 @@ Operational mantra - I am American
  and What was your "Deed"?
  Elon
  Prince (Erik, Alwaleed)
+
+
+
+
 ]
 
 
@@ -453,15 +471,22 @@ I am Prince (Erik, Alwaleed)
 Real List
 
 
-
-
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
-Emily
+Three Generations
+? (46 - 64) (Amy and Amanda)
+? (26 - 45)
+? (new - 25)
+
+
+Three Generations
+? (36 - 54)
+? (16 - 35)
+Emily (new - 15)
 
 
 
@@ -741,7 +766,7 @@ Car (bike/kayak) and ferry (boat/ship)
 
 
 Start Binghamton, NY
-Dry Summer, mild winter...
+Dry Summer, mild winter, mild spring
 
 
 Taming of the Shrew
@@ -2254,6 +2279,13 @@ December
 Christ/Christmas Day
 
 
+Communication
+
+
+Galaxy Comm
+Satellite comm
+
+
 Home depot
 
 
@@ -2368,11 +2400,10 @@ Dee rn M
 MD no show
 
 
-Legal services
+Legal
 
 
-
-
+Services
 
 
 
@@ -2385,9 +2416,10 @@ Move everything to browser.
 Customizable default tabs not there yet.
 
 
-Financial Services
+Finance
 
 
+Services
 Retail - Smart app bank nationwide first
 Commercial
 Investment
@@ -3018,7 +3050,7 @@ Finance
 Bank
 
 
-Tech
+Engineering
 Risc 5 dev board with new os and new apps
 
 
