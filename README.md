@@ -3,7 +3,7 @@ Notes from accounts - Independent interest and Militia, Earth Backup (Suc-king)
 
 https://earthbackup.planet.militia
 
-Individual.txt
+Check out, Individual.txt
 (Actively updated)
 
 rakeshkelm@gmail.com.txt
