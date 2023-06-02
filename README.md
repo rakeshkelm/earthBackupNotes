@@ -9,6 +9,10 @@ Check out, Individual.txt
 rakeshkelm@gmail.com.txt
 (Actively updated)
 
+For more details, Check out
+
+https://github.com/irakeshkelm
+
 Build and Operationalize a Planet.
 Expand and Update Independent Interest.
 
