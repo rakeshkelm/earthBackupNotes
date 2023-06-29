@@ -6,12 +6,12 @@ https://earthbackup.planet.militia
 Check out, Individual.txt
 (Actively updated)
 
-rakeshkelm@gmail.com.txt
+Check out, rakeshkelm@gmail.com.txt
 (Actively updated)
 
 For more details, Check out
 
-https://github.com/irakeshkelm
+https://github.com/irakeshkelm (Actively updated)
 
 Build and Operationalize a Planet.
 Expand and Update Independent Interest.
