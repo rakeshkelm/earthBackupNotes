@@ -2,7 +2,7 @@ Earth backup notes - from, Rakesh Kukatla
 
 Independent interest and Militia (Suc-king)
 
-at htps://earthbackupnotes.planet.militia
+at htps://earthbackupnotes.media.militia
 
 then - Check Earth backup notes
 
