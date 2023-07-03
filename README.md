@@ -1,25 +1,24 @@
-# notes
-Notes from accounts - Independent interest and Militia, Earth Backup (Suc-king)
+Earth backup notes - from, Rakesh Kukatla
 
-https://earthbackup.planet.militia
+Independent interest and Militia (Suc-king)
 
-Check out, Individual.txt
-(Actively updated)
+at htps://earthbackupnotes.planet.militia
 
-Check out, rakeshkelm@gmail.com.txt
-(Actively updated)
+then - Check Earth backup notes
 
-For more details, Check out
+at https://github.com/rakeshkelm/earthbackupnotes 
 
-https://github.com/irakeshkelm (Actively updated)
+then - Check out, earthBackupNotes.txt
 
-Build and Operationalize a Planet.
-Expand and Update Independent Interest.
+For more details,
 
-homesecbing@gmail.com.txt
-(Archived)
+Check National Corporations, USA (aka Great-America)
 
-rakeshbingk@gmail.com.txt
-(Archived)
+at https://github.com/rakeshkelm/natCorp
 
-Check out, above files in this folder.
+then - Check out, nationalCorporationsUSAakaGreatAmerica.txt
+
+Build and operationalize a planet.
+
+Expand and update Independent interest.
+Expand and update Independent interest.
