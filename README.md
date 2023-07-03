@@ -14,9 +14,9 @@ For more details,
 
 Check National Corporations, USA (aka Great-America)
 
-at https://github.com/rakeshkelm/natCorp
+at https://github.com/rakeshkelm/natcorpusasaudiroyalists
 
-then - Check out, nationalCorporationsUSAakaGreatAmerica.txt
+then - Check out, HomeDepotRefrigeratorWarrantyExchange.pdf
 
 Build and operationalize a planet.
 
