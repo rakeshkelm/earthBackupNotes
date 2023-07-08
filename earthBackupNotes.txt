@@ -61,23 +61,6 @@ Back-end
 ]
 
 
-People
-
-
-Circles
-
-
-Private
-
-
-Non profit
-private
-Government
-
-
-Government
-
-
 Pecking Order - Systems
 
 
@@ -196,6 +179,38 @@ Coloreds aka slaves - Naturalized pawns, Birth pawns
 Wind law and wind process
 with culture
 without culture
+]
+
+
+Circles
+
+
+People circles
+[
+Private
+
+
+Non profit
+private
+Government
+
+
+Government
+]
+
+
+Expand circles
+[
+Build
+Operationalize
+]
+
+
+Update circles
+[
+Service
+Support
+Assistance/Help desk
 ]
 
 
