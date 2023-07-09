@@ -1,13 +1,6 @@
 ﻿Ottawa - Embassies - July 2023
 
 
-Independent interest and Militia
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
-
-
 Play with
 [
 Fidelity
@@ -59,6 +52,13 @@ Power structure
 Front-end
 Back-end
 ]
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Pecking Order - Systems
@@ -114,14 +114,14 @@ Keep it cool
 -----}
 
 
-Pecking order - Males
-
-
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Pecking order - Males
 
 
 Southern
@@ -182,6 +182,89 @@ without culture
 ]
 
 
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
+Communication
+
+
+Structure
+[
+p2p aka n to n, many to many
+]
+
+
+Written
+[
+message
+email
+letter
+]
+
+
+Voice
+[
+audio
+video
+conference
+meeting
+]
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
+Planet, Land and Building
+
+
+Land
+[
+size, at the minimum building size, for humans
+plus, at the minimum, 10x building size, for animals
+plus, close to river, hills
+plus, on site micro-nuclear power/energy plant
+plus, on site mobile transport
+plus, on site mobile internet
+]
+
+
+Building
+[
+Five areas, around building on all four sides (six sides; plus top-air, plus bottom-underground)
+porch/deck/tile area, grass area, shrubs area, berries area, trees-apple/maple area
+Area sizes, are at the minimum, the length (or height) of the longest side of the building
+]
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
+
+
+
+
 Circles
 
 
@@ -214,13 +297,27 @@ Operationalize to-date
 ]
 
 
-Maintenance circles
+Maintain circles
 [
 New and existing
 Service
 Support
 Assistance/Help desk
 ]
+
+
+Train circles
+[
+New and existing
+use - training
+]
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 American co-lo-reds
@@ -264,6 +361,15 @@ other
 ]
 
 
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
 English and European co-lo-reds
 
 
@@ -273,7 +379,7 @@ Irish
 Scottish
 Welsh
 English
-English trailer
+Trailer
 ]
 
 
@@ -283,7 +389,7 @@ Danish
 Norwegians
 Swedish
 Finnish
-Finnish trailer
+Trailer
 ]
 
 
@@ -311,9 +417,22 @@ Trailer
 
 Eastern European
 [
-Maintained as spanish browns
+Maintained as
+Spanish browns
+English browns
 Trailer
 ]
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 email Harvey Stenger office
@@ -520,13 +639,6 @@ Rakesh.
 Individual
 
 
-Independent interest and Militia
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
-
-
 Practice independence
 {-----
 
@@ -589,9 +701,6 @@ Sedan, Wagon, Minivan (aka low profile)
 
 
 
-Planet Reserve bank
-
-
 
 
 Independent interest and Militia
@@ -599,6 +708,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Planet Reserve bank
 
 
 Reserve bank
@@ -635,14 +747,6 @@ all positons (seller, buyer) published and open to everyone, in real time
 
 
 
--
-
-
-Music List
-
-
-
-
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
@@ -650,6 +754,7 @@ web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
+Music List
 
 
 Independent interest and Miliia
@@ -690,17 +795,18 @@ Chilean Spanish
 ]
 
 
-Ideas
+
+
 
 
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
-web : github.usa.saudiroyalist/rakeshkelm/independentinterest
-web : github.usa.saudiroyalist/rakeshkelmmedia/onthemove
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
+Ideas
 
 
 Public education - Loosing (aka Jealous{y})
@@ -717,8 +823,6 @@ then - check out, ideasonthemove
 ]
 
 
-
-
 for
 any individual, any where
 [
@@ -728,8 +832,6 @@ then - check out, natCorpUsaSaudiRoyalists
 then - check out, fedGovUsaSaudiRoyalists
 then - check out, broomeCountyStateGovNyUsaSaudiRoyalists
 ]
-
-
 
 
 for
@@ -790,7 +892,6 @@ then - check out, iirakeshkukatla
 ]
 
 
-Primary worklist
 
 
 
@@ -798,8 +899,12 @@ Primary worklist
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
+web : github.usa.saudiroyalist/rakeshkelm/independentinterest
+web : github.usa.saudiroyalist/rakeshkelmmedia/onthemove
+
+
+Primary worklist
 
 
 Play with
@@ -825,29 +930,16 @@ You pick the car, fuel and service.
 
 
 
-
-
-
-
-
-
-
-
-Snow removal machine
-(Nada snow blower)
-Right of way is present on all four sides of the property.
-
-
-Planet Commercial/Commerce
-
-
-
-
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+
+
+Planet Commercial/Commerce
 
 
 Private Commercial/Commerce
@@ -893,7 +985,6 @@ Ka bull
 ]
 
 
-Planet Residence/Homestead
 
 
 
@@ -903,6 +994,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Planet Residence/Homestead
 
 
 Private Residence/Homestead
@@ -948,22 +1042,16 @@ ATM bank
 
 
 
-
-
-
-
-
-
-Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's) aka Independent interest
-
-
-
-
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+
+
+Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's) aka Independent interest
 
 
 Suc-king
@@ -1027,7 +1115,8 @@ I am Prince (Erik, Alwaleed)
 ]
 
 
-Real List
+
+
 
 
 Independent interest and Militia
@@ -1035,6 +1124,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Real List
 
 
 Three Generations
@@ -1047,6 +1139,17 @@ Three Generations
 ? (36 - 54)
 ? (16 - 35)
 Emily (new - 15)
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 
@@ -1090,15 +1193,6 @@ Emily (new - 15)
 
 
 Socializing
-
-
-
-
-Independent interest and Militia
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
 
 
 Dancing Dating Dinner
@@ -1145,16 +1239,14 @@ T = Trailer White
 
 
 
-Cyril (C reel)
-
-
-
-
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Cyril (C reel)
 
 
 Neal reel
@@ -1263,12 +1355,6 @@ Kayak
 
 
 
- 
-
-
-Earth Backup
-
-
 
 
 Independent interest and Militia
@@ -1276,6 +1362,16 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+
+
+
+
+ 
+
+
+Earth Backup
 
 
 Stipulations
@@ -1352,7 +1448,8 @@ Albany 20d M20
 ]
 
 
-Shopping list
+
+
 
 
 Independent interest and Militia
@@ -1360,6 +1457,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Shopping list
 
 
 Taming of the Shrew
@@ -1421,9 +1521,6 @@ Slide
 
 
 
-Tertiary Worklist - Communists, Socialists
-
-
 
 
 Independent interest and Militia
@@ -1431,6 +1528,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Tertiary Worklist - Communists, Socialists
 
 
 061623
@@ -1554,7 +1654,8 @@ Trailers only sttream
 Period 1600s, 1700s, 1800s reading only
 
 
-Secondary Worklist - Royalists
+
+
 
 
 Independent interest and Militia
@@ -1562,6 +1663,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Secondary Worklist - Royalists
 
 
 Always
@@ -1576,8 +1680,11 @@ Sit idle
 
 
 
-
-
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 
@@ -1595,13 +1702,6 @@ Sit idle
 
 
 Illegal Males - Game code
-
-
-Independent interest and Militia
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
 
 
 Running live (outside) or Running underground (inside)
@@ -2030,16 +2130,24 @@ Keep it cool
 
 
 
-
-
-Illegal Males - Game Attire
-
-
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+
+
+
+
+
+
+
+
+
+
+Illegal Males - Game Attire
 
 
 Proper White
@@ -2103,9 +2211,6 @@ and others
 
 
 
-Americans game (Ii game, opening game, White, Web, prince's) aka Royalists
-
-
 
 
 Independent interest and Militia
@@ -2113,6 +2218,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Americans game (Ii game, opening game, White, Web, prince's) aka Royalists
 
 
 Loosing (aka jealous{y})
@@ -2267,16 +2375,20 @@ Sectioning (aka narrowing) is not possible on one's own private property. Everyw
 
 
 
-
-
-Tramps and Tramping
-
-
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+
+
+
+
+
+
+Tramps and Tramping
 
 
 Anericans - New England (fools)
@@ -2323,6 +2435,19 @@ Fashion/Food, Perfumes (aka fans)
 
 
 
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
+
+
+
+
+
+
 
 
 Rakesh Kukatla
@@ -2357,15 +2482,6 @@ Exurban NY - Binghamton, NY. 13905. USA (aka Great-America).
 
 
 Today worklist
-
-
-
-
-Independent interest and Militia
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
 
 
 Estonia
@@ -2431,18 +2547,22 @@ Cab company courtesy email
 
 
 
-
-
-Conservatives game (Ei game, blocking game, substitution game, Trailer White, Cloud, Princesse's) aka Communists, Socialists
-
-
-
-
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+
+
+
+
+
+
+
+
+Conservatives game (Ei game, blocking game, substitution game, Trailer White, Cloud, Princesse's) aka Communists, Socialists
 
 
 Winning
@@ -2621,7 +2741,25 @@ Existential crisis for Israel
 I am scared
 I am Irish, I am Catholic, I am Juice, I am Mormon, I am Parsi
 ]
- 
+
+
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
+
+
 
 
 Profile
@@ -2739,15 +2877,6 @@ Georgia State University, Atlanta, GA, USA (aka Great-America).
 Food
 
 
-
-
-Independent interest and Militia
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
-
-
 Animal ranch
 Dairy farm
 Grain farm
@@ -2757,7 +2886,34 @@ Maple tree apple farm orchard
 Supplies
 
 
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
 Scrap
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2770,14 +2926,6 @@ web : github.usa.saudiroyalist/rakeshkelm
 
 
 rakeshkelm - Visual Media
-
-
-Independent interest and Militia
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelmmedia
 
 
 get visuals, smart (way)
@@ -2829,7 +2977,10 @@ without, any add ons-lip gloss (aka presenters)
 ]
 
 
-Holiday Calendar
+
+
+
+
 
 
 
@@ -2838,7 +2989,15 @@ Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelmmedia
+
+
+
+
+
+
+Holiday Calendar
 
 
 January
@@ -2868,7 +3027,14 @@ December
 Christ/Christmas Day
 
 
-Lourdes Emergency Department
+
+
+
+
+
+
+
+
 
 
 Independent interest and Militia
@@ -2876,6 +3042,66 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Lourdes Robinson, 306, ED f28 th hn 1 pm
+
+
+web: healthcare.ascension.org
+Lourdes Hospital
+169 Riverside Dr,
+Binghamton, NY 13905
+(607) 798-5111
+
+
+Service Narrowed
+Pay bribe Sir/Madam/Tip hat
+
+
+022823
+Leisner MD
+Th f28. hn, 1PM
+Check in area
+ setup comm
+Physician assistant area
+Conversation get to know
+Setup comm
+Go forward or reschedule
+MD area
+conversation get to know
+Setup comm
+Go forward or reschedule
+
+
+Michelle Registration
+Sarah lpn
+Romoff DO
+Tracy Registration
+
+
+Registration photocopies 3 sides
+Pick up copies from last visit = med. Records
+Jacqln lpn
+Dee rn M
+MD no show
+
+
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
+Lourdes Emergency Department
 
 
 web: healthcare.ascension.org
@@ -2936,7 +3162,10 @@ Kristin - outside ED - Nurse - weight, temp.
 Jamie - Front desk - check in for ED
 
 
-Communication
+
+
+
+
 
 
 Independent interest and Militia
@@ -2944,13 +3173,21 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Communication
 
 
 Galaxy Comm
 Satellite comm
 
 
-Home depot
+
+
+
+
+
+
 
 
 Independent interest and Militia
@@ -2958,6 +3195,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Home depot
 
 
 Refrigerator warranty exchange
@@ -2969,7 +3209,12 @@ Was provided with store manager's card (Clinton Stratton)
 After, a long, forced-acrimonius conversation at appliance service desk
 
 
-Seconday Worklist
+
+
+
+
+
+
 
 
 Independent interest and Militia
@@ -2977,12 +3222,20 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Seconday Worklist
 
 
 Take sports teams (NFL, NHL, NBA, MLB) championships abroad like tennis.
 
 
-Smile designer Dentist f28 th ss 2:30 pm
+
+
+
+
+
+
 
 
 Independent interest and Militia
@@ -2992,6 +3245,7 @@ web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
+Smile designer Dentist f28 th ss 2:30 pm
 
 
 thesmiledesigners.com
@@ -3056,7 +3310,12 @@ email
 Individuals
 
 
-Lourdes Robinson, 306, ED f28 th hn 1 pm
+
+
+
+
+
+
 
 
 Independent interest and Militia
@@ -3064,59 +3323,11 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
-
-
-
-
-web: healthcare.ascension.org
-Lourdes Hospital
-169 Riverside Dr,
-Binghamton, NY 13905
-(607) 798-5111
-
-
-Service Narrowed
-Pay bribe Sir/Madam/Tip hat
-
-
-022823
-Leisner MD
-Th f28. hn, 1PM
-Check in area
- setup comm
-Physician assistant area
-Conversation get to know
-Setup comm
-Go forward or reschedule
-MD area
-conversation get to know
-Setup comm
-Go forward or reschedule
-
-
-Michelle Registration
-Sarah lpn
-Romoff DO
-Tracy Registration
-
-
-Registration photocopies 3 sides
-Pick up copies from last visit = med. Records
-Jacqln lpn
-Dee rn M
-MD no show
 
 
 Legal
 
 
-Independent interest and Militia
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
-
-
 Services
 
 
@@ -3126,36 +3337,32 @@ Services
 
 
 
-Move everything to browser.
-Customizable default tabs not there yet.
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Finance
 
 
-Independent interest and Militia
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
-
-
 Services
 Retail - Smart app bank nationwide first
 Commercial
-Investment
+Investment - Private equity, Hedge funds
 Brokerage
 Exchange
 
 
-Drones
-
-
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Drones
 
 
 Ge
@@ -3163,7 +3370,12 @@ Engine
 Airframe
 
 
-Antenna
+
+
+
+
+
+
 
 
 Independent interest and Militia
@@ -3171,6 +3383,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Antenna
 
 
 Corning
@@ -3179,7 +3394,10 @@ Wave dev boards
 
 
 
-Risc 5
+
+
+
+
 
 
 Independent interest and Militia
@@ -3187,6 +3405,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Risc 5
 
 
 IBM
@@ -3202,7 +3423,12 @@ Fitness band
 USB key
 
 
-DSS Smart device and DSS Smart service
+
+
+
+
+
+
 
 
 Independent interest and Militia
@@ -3210,6 +3436,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+DSS Smart device and DSS Smart service
 
 
 DSS Smart device
@@ -3230,7 +3459,10 @@ DSS = Department of Social Services
 
 
 
-DMV Title and Registration
+
+
+
+
 
 
 Independent interest and Militia
@@ -3238,6 +3470,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+DMV Title and Registration
 
 
 Please, make motor vehicle (aka DMV) Title and Registration records, publicly available and accessible via smart (Internet, kiosk,...), telephone and in person mediums.
@@ -3249,7 +3484,10 @@ aka = also known as (in government language)
 
 
 
-Panera
+
+
+
+
 
 
 Independent interest and Militia
@@ -3257,6 +3495,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Panera
 
 
 Time in minutes, after order placed
@@ -3269,7 +3510,21 @@ Mud brush outside
 Towels outside
 Peeing area outside
 Covered bike Parking outside
- 
+
+
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Buying list
@@ -3279,6 +3534,19 @@ Wet suit
 Kayak 300d
 
 
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 
@@ -3516,13 +3784,6 @@ Lowe's
 Today Worklist
 
 
-Independent interest and Militia
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
-
-
 Estonia
 Latvia
 Lithuania
@@ -3538,6 +3799,19 @@ Passport th
 Food farms th
 
 
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 
@@ -3741,13 +4015,6 @@ Home insu Amica $400/yr@100k
 Tertiary Worklist
 
 
-Independent interest and Militia
-git : aka fool
-p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
-
-
 120922
 Live/real time video, images... from camera to p2p and cloud
 
@@ -3799,7 +4066,12 @@ Big tel PSTN data service via apps
 Android TV os, be able to take screenshots, onscreen recording, saving of clips, sharing. All the things you have on android phone os
 
 
-Secondary Worklist
+
+
+
+
+
+
 
 
 Independent interest and Militia
@@ -3807,6 +4079,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Secondary Worklist
 
 
 101122
@@ -3821,7 +4096,12 @@ Risc 5 dev board with ChromeOS and working Linux desktop apps or chromium os wit
 Chrome os with working Linux desktop apps or chromium os with working Linux desktop apps
 
 
-Primary Worklist
+
+
+
+
+
+
 
 
 Independent interest and Militia
@@ -3829,6 +4109,9 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+Primary Worklist
 
 
 Finance
@@ -3855,6 +4138,19 @@ Fcc commissioners professional standards org like engineering standards orgs
 Separate Double occupancy
 
 
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
 
 
 Scrap
@@ -3889,14 +4185,22 @@ Militia
 
 
 
-Double occupancy
-
-
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+
+
+
+
+
+
+
+
+Double occupancy
 
 
 Presence in two fingers of government
@@ -3909,3 +4213,18 @@ Federal Reserve ( )
 Judiciary ( )
 Executive (little)
 Legislative (thumb)
+
+
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
