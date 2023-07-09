@@ -201,20 +201,29 @@ Government
 
 Expand circles
 [
-Build
+New
+Build and
 Operationalize
 ]
 
 
 Update circles
 [
+Existing
+Operationalize to-date
+]
+
+
+Maintenance circles
+[
+New and existing
 Service
 Support
 Assistance/Help desk
 ]
 
 
-American coloreds
+American co-lo-reds
 
 
 Blacks aka mainlanders
@@ -226,11 +235,13 @@ other blacks - Atlantic islanders
 [
 Carribbeans
 Haitians
+other
 ]
 Browns aka mainlanders
 [
 Mexicans
-Latinos
+Latinos - central and south america
+other
 ]
 other browns - atlantic islanders
 [
@@ -243,12 +254,65 @@ Yellows aka mainlanders
 Phillippinos
 Chinese
 South asians
+other
 ]
 other yellows - Pacific islanders
 [
 Hawaiian
 Guam
 other
+]
+
+
+English and European co-lo-reds
+
+
+English
+[
+Irish
+Scottish
+Welsh
+English
+English trailer
+]
+
+
+Northern European
+[
+Danish
+Norwegians
+Swedish
+Finnish
+Finnish trailer
+]
+
+
+Southern European
+[
+prime
+{
+Germans
+Italians
+Greek
+Spanish
+French
+Trailer
+}
+sub-prime
+{
+Austrians
+Dutch
+Belgians
+Czechoslovaks
+Trailer
+}
+]
+
+
+Eastern European
+[
+Maintained as spanish browns
+Trailer
 ]
 
 
