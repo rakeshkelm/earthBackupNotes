@@ -203,6 +203,67 @@ web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
+Currencies
+
+
+grow position
+[
+on currencies holding proper territories (aka forward rights)
+Planetarian planet
+]
+
+
+long position
+[
+on currencies holding manageable territories (aka frozen rights)
+Swiss francs
+Scan krone
+]
+
+
+Short position
+[
+on currencies holding large territories (aka shorting rights)
+Euro
+Rouble
+Yuan
+US dollar
+]
+
+
+
+
+
+
+
+
+
+
+Shame vs Shameless
+
+
+if, you follow the lead
+[
+you have shame
+]
+if, you don't
+[
+you are shameless
+]
+
+
+try
+[
+being humble
+]
+else
+[
+be the lead
+and
+maintain the lead
+]
+
+
 Sports in residence and Olympics in residence
 
 
@@ -2965,7 +3026,7 @@ git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
-Finished USA (aka United slave america) route (Federal Reserve Bank - 2021), Southern route (Mexico - 2022) and starting on Northern route (Alaska - July 2023)
+Finished USA (aka United slave america) route (Federal Reserve Bank - 2021), Southern route (Mexico - 2022) and starting on Northern route (Alaska - 2023 - with car)
 
 
 
